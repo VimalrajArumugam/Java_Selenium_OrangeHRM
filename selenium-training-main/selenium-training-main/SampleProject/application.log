@@ -1,0 +1,23 @@
+2022-09-26 00:40:41,684  INFO [com.atmecs.qa.SampleProject.runner.TestNGRunner.main()] FalconWebPage:51 - Maximizing browser window
+2022-09-26 00:40:51,871  INFO [com.atmecs.qa.SampleProject.runner.TestNGRunner.main()] LogReport:29 - This method return the locator data in a object format
+2022-09-26 00:41:01,968  INFO [com.atmecs.qa.SampleProject.runner.TestNGRunner.main()] VerificationManager:243 - PASS : Verify String Message:-  Actual value : Project Structure is same as Expected value: Project Structure
+2022-09-26 00:41:02,121  INFO [com.atmecs.qa.SampleProject.runner.TestNGRunner.main()] VerificationManager:243 - PASS : Verify String Message:-  Actual value : Understanding Project Structure is same as Expected value: Understanding Project Structure
+2022-09-26 00:41:02,210  INFO [com.atmecs.qa.SampleProject.runner.TestNGRunner.main()] VerificationManager:43 - PASS : Verify Project Structure document images displayed:-  Actual value : true is same as Expected value: true
+2022-09-26 00:41:02,246  INFO [com.atmecs.qa.SampleProject.runner.TestNGRunner.main()] VerificationManager:43 - PASS : Verify Project Structure document images displayed:-  Actual value : true is same as Expected value: true
+2022-09-26 00:41:02,270  INFO [com.atmecs.qa.SampleProject.runner.TestNGRunner.main()] VerificationManager:43 - PASS : Verify Project Structure document images displayed:-  Actual value : true is same as Expected value: true
+2022-09-26 00:41:02,308  INFO [com.atmecs.qa.SampleProject.runner.TestNGRunner.main()] VerificationManager:43 - PASS : Verify Project Structure document images displayed:-  Actual value : true is same as Expected value: true
+2022-09-26 00:41:02,345  INFO [com.atmecs.qa.SampleProject.runner.TestNGRunner.main()] VerificationManager:43 - PASS : Verify Project Structure document images displayed:-  Actual value : true is same as Expected value: true
+2022-09-26 00:41:02,380  INFO [com.atmecs.qa.SampleProject.runner.TestNGRunner.main()] VerificationManager:43 - PASS : Verify Project Structure document images displayed:-  Actual value : true is same as Expected value: true
+2022-09-26 00:41:02,542  INFO [com.atmecs.qa.SampleProject.runner.TestNGRunner.main()] VerificationManager:243 - PASS : Verify String Message:-  Actual value : Understanding Config.properties is same as Expected value: Understanding Config.properties
+2022-09-26 00:41:02,722  INFO [com.atmecs.qa.SampleProject.runner.TestNGRunner.main()] VerificationManager:243 - PASS : Verify String Message:-  Actual value : Writing Your First Test is same as Expected value: Writing Your First Test
+2022-09-26 00:41:02,794  INFO [com.atmecs.qa.SampleProject.runner.TestNGRunner.main()] VerificationManager:43 - PASS : Writing Your First Test documet images are displayed:-  Actual value : true is same as Expected value: true
+2022-09-26 00:41:02,794  INFO [com.atmecs.qa.SampleProject.runner.TestNGRunner.main()] FalconWebPage:51 - ----
+2022-09-26 00:41:02,828  INFO [com.atmecs.qa.SampleProject.runner.TestNGRunner.main()] VerificationManager:43 - PASS : Writing Your First Test documet images are displayed:-  Actual value : true is same as Expected value: true
+2022-09-26 00:41:02,828  INFO [com.atmecs.qa.SampleProject.runner.TestNGRunner.main()] FalconWebPage:51 - ----
+2022-09-26 00:41:02,866  INFO [com.atmecs.qa.SampleProject.runner.TestNGRunner.main()] VerificationManager:43 - PASS : Writing Your First Test documet images are displayed:-  Actual value : true is same as Expected value: true
+2022-09-26 00:41:02,867  INFO [com.atmecs.qa.SampleProject.runner.TestNGRunner.main()] FalconWebPage:51 - ----
+2022-09-26 00:41:02,903  INFO [com.atmecs.qa.SampleProject.runner.TestNGRunner.main()] VerificationManager:43 - PASS : Writing Your First Test documet images are displayed:-  Actual value : true is same as Expected value: true
+2022-09-26 00:41:02,904  INFO [com.atmecs.qa.SampleProject.runner.TestNGRunner.main()] FalconWebPage:51 - ----
+2022-09-26 00:41:03,097  INFO [com.atmecs.qa.SampleProject.runner.TestNGRunner.main()] VerificationManager:243 - PASS : Verify String Messaage Actual value : Platform Service Guide is same as Expected value: Platform Service Guide
+2022-09-26 00:41:13,284  INFO [com.atmecs.qa.SampleProject.runner.TestNGRunner.main()] SlackReportListener:51 - Please enable slack integration for sending notification to slack channel. Set 'slack.enable=true' for getting test results on your slack channel
+2022-09-26 00:41:13,330 ERROR [com.atmecs.qa.SampleProject.runner.TestNGRunner.main()] TestNGRunner:89 - Results are not uploaded because uploadResults flag is set to false

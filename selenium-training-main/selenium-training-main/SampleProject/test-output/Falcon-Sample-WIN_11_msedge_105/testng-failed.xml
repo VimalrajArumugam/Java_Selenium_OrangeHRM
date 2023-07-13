@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Falcon-Sample-WIN_11_msedge_105]">
+  <parameter name="os" value="WIN"/>
+  <parameter name="osVersion" value="11"/>
+  <parameter name="browser" value="msedge"/>
+  <parameter name="browserVersion" value="105"/>
+  <test thread-count="5" name="SampleTest(failed)">
+    <classes>
+      <class name="com.atmecs.qa.SampleProject.testscript.SampleRegistrationTestScript">
+        <methods>
+          <include name="firstTest" invocation-numbers="0"/>
+          <include name="teardown"/>
+          <include name="preSetup"/>
+        </methods>
+      </class> <!-- com.atmecs.qa.SampleProject.testscript.SampleRegistrationTestScript -->
+    </classes>
+  </test> <!-- SampleTest(failed) -->
+</suite> <!-- Failed suite [Falcon-Sample-WIN_11_msedge_105] -->

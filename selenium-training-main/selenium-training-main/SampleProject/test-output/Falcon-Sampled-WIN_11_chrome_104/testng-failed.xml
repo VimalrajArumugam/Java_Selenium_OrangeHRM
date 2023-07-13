@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Falcon-Sampled-WIN_11_chrome_104]">
+  <parameter name="os" value="WIN"/>
+  <parameter name="osVersion" value="11"/>
+  <parameter name="browser" value="chrome"/>
+  <parameter name="browserVersion" value="104"/>
+  <test thread-count="5" name="SampleTest(failed)">
+    <classes>
+      <class name="com.atmecs.qa.SampleProject.testscript.HomePage">
+        <methods>
+          <include name="homescreen"/>
+          <include name="teardown"/>
+          <include name="preSetup"/>
+        </methods>
+      </class> <!-- com.atmecs.qa.SampleProject.testscript.HomePage -->
+    </classes>
+  </test> <!-- SampleTest(failed) -->
+</suite> <!-- Failed suite [Falcon-Sampled-WIN_11_chrome_104] -->

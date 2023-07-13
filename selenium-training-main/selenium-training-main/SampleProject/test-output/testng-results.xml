@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[Test Results are not uploading to JIRA. If you want to upload please set value of key 'jira.testresults' to 'true' in config.properties]]>
+    </line>
+    <line>
+      <![CDATA[INFO: The value found with Environment variable Falcon is: Falcon]]>
+    </line>
+    <line>
+      <![CDATA[INFO: The value found with Environment Module variable webpage is: webpage]]>
+    </line>
+    <line>
+      <![CDATA[The value found with Environment variable WIN_11_chrome_104 is: WIN_11_chrome_104]]>
+    </line>
+    <line>
+      <![CDATA[INFO: Clients Found: [Falcon]
+]]>
+    </line>
+    <line>
+      <![CDATA[INFO: Modules Selected: [webpage]
+]]>
+    </line>
+    <line>
+      <![CDATA[INFO: New Suite Created with name: Falcon-Sample-WIN_11_chrome_104]]>
+    </line>
+    <line>
+      <![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Falcon-Sample-WIN_11_chrome_104">
+  <parameter name="os" value="WIN"/>
+  <parameter name="osVersion" value="11"/>
+  <parameter name="browser" value="chrome"/>
+  <parameter name="browserVersion" value="104"/>
+  <test thread-count="5" name="SampleTest">
+    <classes>
+      <class name="com.atmecs.qa.SampleProject.testscript.FalconWebPage"/>
+    </classes>
+  </test> <!-- SampleTest -->
+</suite> <!-- Falcon-Sample-WIN_11_chrome_104 -->
+]]>
+    </line>
+    <line>
+      <![CDATA[Maximizing browser window]]>
+    </line>
+    <line>
+      <![CDATA[Locator type doesn't exist null]]>
+    </line>
+    <line>
+      <![CDATA[Locator type doesn't exist null]]>
+    </line>
+    <line>
+      <![CDATA[No such element found with xpath (//a[@class='nav-link scrollto active'])[1]]]>
+    </line>
+    <line>
+      <![CDATA[Locator type doesn't exist null]]>
+    </line>
+    <line>
+      <![CDATA[PASS : Verify String Message:-  : ACTUAL : Project Structure EXPECTED :Project Structure]]>
+    </line>
+    <line>
+      <![CDATA[PASS : Verify String Message:-  : ACTUAL : Understanding Project Structure EXPECTED :Understanding Project Structure]]>
+    </line>
+    <line>
+      <![CDATA[PASS : Verify Project Structure document images displayed:- : ACTUAL : true EXPECTED :true]]>
+    </line>
+    <line>
+      <![CDATA[PASS : Verify Project Structure document images displayed:- : ACTUAL : true EXPECTED :true]]>
+    </line>
+    <line>
+      <![CDATA[PASS : Verify Project Structure document images displayed:- : ACTUAL : true EXPECTED :true]]>
+    </line>
+    <line>
+      <![CDATA[PASS : Verify Project Structure document images displayed:- : ACTUAL : true EXPECTED :true]]>
+    </line>
+    <line>
+      <![CDATA[PASS : Verify Project Structure document images displayed:- : ACTUAL : true EXPECTED :true]]>
+    </line>
+    <line>
+      <![CDATA[PASS : Verify Project Structure document images displayed:- : ACTUAL : true EXPECTED :true]]>
+    </line>
+    <line>
+      <![CDATA[PASS : Verify String Message:-  : ACTUAL : Understanding Config.properties EXPECTED :Understanding Config.properties]]>
+    </line>
+    <line>
+      <![CDATA[PASS : Verify String Message:-  : ACTUAL : Writing Your First Test EXPECTED :Writing Your First Test]]>
+    </line>
+    <line>
+      <![CDATA[PASS : Writing Your First Test documet images are displayed:- : ACTUAL : true EXPECTED :true]]>
+    </line>
+    <line>
+      <![CDATA[----]]>
+    </line>
+    <line>
+      <![CDATA[PASS : Writing Your First Test documet images are displayed:- : ACTUAL : true EXPECTED :true]]>
+    </line>
+    <line>
+      <![CDATA[----]]>
+    </line>
+    <line>
+      <![CDATA[PASS : Writing Your First Test documet images are displayed:- : ACTUAL : true EXPECTED :true]]>
+    </line>
+    <line>
+      <![CDATA[----]]>
+    </line>
+    <line>
+      <![CDATA[PASS : Writing Your First Test documet images are displayed:- : ACTUAL : true EXPECTED :true]]>
+    </line>
+    <line>
+      <![CDATA[----]]>
+    </line>
+    <line>
+      <![CDATA[PASS : Verify String Messaage : ACTUAL : Platform Service Guide EXPECTED :Platform Service Guide]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2022-09-25T19:10:35Z" name="Falcon-Sample-WIN_11_chrome_104" finished-at="2022-09-25T19:11:13Z" duration-ms="37999">
+    <groups>
+    </groups>
+    <test started-at="2022-09-25T19:10:35Z" name="SampleTest" finished-at="2022-09-25T19:11:13Z" duration-ms="37999">
+      <class name="com.atmecs.qa.SampleProject.testscript.FalconWebPage">
+        <test-method is-config="true" signature="preSetup()[pri:0, instance:com.atmecs.qa.SampleProject.testscript.FalconWebPage@4e1a4dbc]" started-at="2022-09-25T19:10:35Z" name="preSetup" finished-at="2022-09-25T19:10:35Z" duration-ms="54" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preSetup -->
+        <test-method signature="webpage()[pri:0, instance:com.atmecs.qa.SampleProject.testscript.FalconWebPage@4e1a4dbc]" started-at="2022-09-25T19:10:35Z" name="webpage" finished-at="2022-09-25T19:11:13Z" duration-ms="37933" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Maximizing browser window]]>
+            </line>
+            <line>
+              <![CDATA[Locator type doesn't exist null]]>
+            </line>
+            <line>
+              <![CDATA[Locator type doesn't exist null]]>
+            </line>
+            <line>
+              <![CDATA[No such element found with xpath (//a[@class='nav-link scrollto active'])[1]]]>
+            </line>
+            <line>
+              <![CDATA[Locator type doesn't exist null]]>
+            </line>
+            <line>
+              <![CDATA[PASS : Verify String Message:-  : ACTUAL : Project Structure EXPECTED :Project Structure]]>
+            </line>
+            <line>
+              <![CDATA[PASS : Verify String Message:-  : ACTUAL : Understanding Project Structure EXPECTED :Understanding Project Structure]]>
+            </line>
+            <line>
+              <![CDATA[PASS : Verify Project Structure document images displayed:- : ACTUAL : true EXPECTED :true]]>
+            </line>
+            <line>
+              <![CDATA[PASS : Verify Project Structure document images displayed:- : ACTUAL : true EXPECTED :true]]>
+            </line>
+            <line>
+              <![CDATA[PASS : Verify Project Structure document images displayed:- : ACTUAL : true EXPECTED :true]]>
+            </line>
+            <line>
+              <![CDATA[PASS : Verify Project Structure document images displayed:- : ACTUAL : true EXPECTED :true]]>
+            </line>
+            <line>
+              <![CDATA[PASS : Verify Project Structure document images displayed:- : ACTUAL : true EXPECTED :true]]>
+            </line>
+            <line>
+              <![CDATA[PASS : Verify Project Structure document images displayed:- : ACTUAL : true EXPECTED :true]]>
+            </line>
+            <line>
+              <![CDATA[PASS : Verify String Message:-  : ACTUAL : Understanding Config.properties EXPECTED :Understanding Config.properties]]>
+            </line>
+            <line>
+              <![CDATA[PASS : Verify String Message:-  : ACTUAL : Writing Your First Test EXPECTED :Writing Your First Test]]>
+            </line>
+            <line>
+              <![CDATA[PASS : Writing Your First Test documet images are displayed:- : ACTUAL : true EXPECTED :true]]>
+            </line>
+            <line>
+              <![CDATA[----]]>
+            </line>
+            <line>
+              <![CDATA[PASS : Writing Your First Test documet images are displayed:- : ACTUAL : true EXPECTED :true]]>
+            </line>
+            <line>
+              <![CDATA[----]]>
+            </line>
+            <line>
+              <![CDATA[PASS : Writing Your First Test documet images are displayed:- : ACTUAL : true EXPECTED :true]]>
+            </line>
+            <line>
+              <![CDATA[----]]>
+            </line>
+            <line>
+              <![CDATA[PASS : Writing Your First Test documet images are displayed:- : ACTUAL : true EXPECTED :true]]>
+            </line>
+            <line>
+              <![CDATA[----]]>
+            </line>
+            <line>
+              <![CDATA[PASS : Verify String Messaage : ACTUAL : Platform Service Guide EXPECTED :Platform Service Guide]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- webpage -->
+      </class> <!-- com.atmecs.qa.SampleProject.testscript.FalconWebPage -->
+    </test> <!-- SampleTest -->
+  </suite> <!-- Falcon-Sample-WIN_11_chrome_104 -->
+</testng-results>

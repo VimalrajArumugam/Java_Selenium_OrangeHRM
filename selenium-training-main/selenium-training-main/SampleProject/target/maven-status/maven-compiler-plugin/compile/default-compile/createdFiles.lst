@@ -1,0 +1,8 @@
+com\atmecs\qa\SampleProject\testsuite\SampleTestSuiteBase.class
+com\atmecs\qa\SampleProject\testscript\SampleJiraTestScript.class
+com\atmecs\qa\SampleProject\testscript\SampleTestScript.class
+com\atmecs\qa\SampleProject\testscript\AtmecsContactUsTest.class
+com\atmecs\qa\SampleProject\runner\TestNGRunner.class
+com\atmecs\qa\SampleProject\constant\LocatorKeyContainer.class
+com\atmecs\qa\SampleProject\constant\FilePathConstants.class
+com\atmecs\qa\SampleProject\reusables\ReadExcelDataUsingMap.class
