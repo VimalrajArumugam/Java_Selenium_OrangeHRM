@@ -1,0 +1,28 @@
+userNameTextPlaceHolder = //input[@placeholder='Username']
+passwordTextPlaceHolder = //input[@id='password']
+
+userNameTextField = //input[@id='user-name']
+passwordTextField = //input[@id='password']
+loginButton = //input[@id='login-button']
+
+acceptedUsernames = //div[@id='login_credentials']//h4
+passwordforallUsers = //div[@class='login_password']//h4
+
+
+
+
+standardUserName = standard_user
+lockedOutUser = locked_out_user
+problemUser = problem_user
+performanceUser = performance_glitch_user
+
+standardPassword = secret_sauce
+
+userLabel = Username
+userPasswordLabel = Password
+loginLabel = Login Button
+
+
+
+loginName = //div[@class='login_credentials']
+usersPassword = //div[@class='login_password']

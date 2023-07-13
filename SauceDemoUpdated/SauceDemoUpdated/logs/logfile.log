@@ -1,0 +1,892 @@
+2022-11-11 15:57:52 INFO  SelectWebDriver:25 - Chrome Browser Loaded
+2022-11-11 15:57:56 INFO  IsElementDisplay:16 - User name text field is Enabled
+2022-11-11 15:57:56 INFO  IsElementDisplay:22 - Password text field is Enabled
+2022-11-11 15:58:35 INFO  SelectWebDriver:25 - Chrome Browser Loaded
+2022-11-11 15:58:38 INFO  IsElementDisplay:16 - User name text field is Enabled
+2022-11-11 15:58:38 INFO  IsElementDisplay:22 - Password text field is Enabled
+2022-11-11 16:00:51 INFO  SelectWebDriver:25 - Chrome Browser Loaded
+2022-11-11 16:00:55 INFO  IsElementDisplay:16 - User name text field is Enabled
+2022-11-11 16:00:55 INFO  IsElementDisplay:22 - Password text field is Enabled
+2022-11-11 16:05:27 INFO  SelectWebDriver:25 - Chrome Browser Loaded
+2022-11-11 16:05:31 INFO  IsElementDisplay:16 - User name text field is Enabled
+2022-11-11 16:05:31 INFO  IsElementDisplay:22 - Password text field is Enabled
+2022-11-11 16:06:00 INFO  SelectWebDriver:25 - Chrome Browser Loaded
+2022-11-11 16:06:03 INFO  IsElementDisplay:16 - User name text field is Enabled
+2022-11-11 16:06:04 INFO  IsElementDisplay:22 - Password text field is Enabled
+2022-11-11 16:07:08 INFO  SelectWebDriver:25 - Chrome Browser Loaded
+2022-11-11 16:07:12 INFO  IsElementDisplay:16 - User name text field is Enabled
+2022-11-11 16:07:12 INFO  IsElementDisplay:22 - Password text field is Enabled
+2022-11-11 16:07:33 INFO  SelectWebDriver:25 - Chrome Browser Loaded
+2022-11-11 16:07:36 INFO  IsElementDisplay:16 - User name text field is Enabled
+2022-11-11 16:07:36 INFO  IsElementDisplay:22 - Password text field is Enabled
+2022-11-11 16:08:45 INFO  SelectWebDriver:25 - Chrome Browser Loaded
+2022-11-11 16:08:49 INFO  IsElementDisplay:16 - User name text field is Enabled
+2022-11-11 16:08:49 INFO  IsElementDisplay:22 - Password text field is Enabled
+2022-11-11 16:13:39 INFO  SelectWebDriver:25 - Chrome Browser Loaded
+2022-11-11 16:13:42 INFO  IsElementDisplay:16 - User name text field is Enabled
+2022-11-11 16:13:42 INFO  IsElementDisplay:22 - Password text field is Enabled
+2022-11-11 16:14:22 INFO  SelectWebDriver:25 - Chrome Browser Loaded
+2022-11-11 16:14:26 INFO  IsElementDisplay:16 - User name text field is Enabled
+2022-11-11 16:14:26 INFO  IsElementDisplay:22 - Password text field is Enabled
+2022-11-11 16:17:24 INFO  SelectWebDriver:25 - Chrome Browser Loaded
+2022-11-11 16:17:28 INFO  IsElementDisplay:16 - User name text field is Enabled
+2022-11-11 16:17:28 INFO  IsElementDisplay:22 - Password text field is Enabled
+2022-11-11 16:19:04 INFO  SelectWebDriver:25 - Chrome Browser Loaded
+2022-11-11 16:19:08 INFO  IsElementDisplay:16 - User name text field is Enabled
+2022-11-11 16:19:08 INFO  IsElementDisplay:22 - Password text field is Enabled
+2022-11-11 16:20:36 INFO  SelectWebDriver:25 - Chrome Browser Loaded
+2022-11-11 16:20:40 INFO  IsElementDisplay:16 - User name text field is Enabled
+2022-11-11 16:20:40 INFO  IsElementDisplay:22 - Password text field is Enabled
+2022-11-11 16:22:46 INFO  SelectWebDriver:25 - Chrome Browser Loaded
+2022-11-11 16:22:49 INFO  IsElementDisplay:16 - User name text field is Enabled
+2022-11-11 16:22:50 INFO  IsElementDisplay:22 - Password text field is Enabled
+2022-11-11 16:32:48 INFO  SelectWebDriver:25 - Chrome Browser Loaded
+2022-11-11 16:32:52 INFO  IsElementDisplay:16 - User name text field is Enabled
+2022-11-11 16:32:52 INFO  IsElementDisplay:22 - Password text field is Enabled
+2022-11-11 16:50:39 INFO  SelectWebDriver:25 - Chrome Browser Loaded
+2022-11-11 16:50:43 INFO  IsElementDisplay:16 - User name text field is Enabled
+2022-11-11 16:50:43 INFO  IsElementDisplay:22 - Password text field is Enabled
+2022-11-11 17:02:43 INFO  SelectWebDriver:25 - Chrome Browser Loaded
+2022-11-11 17:03:46 INFO  SelectWebDriver:25 - Chrome Browser Loaded
+2022-11-11 17:03:50 INFO  IsElementDisplay:16 - User name text field is Enabled
+2022-11-11 17:03:50 INFO  IsElementDisplay:22 - Password text field is Enabled
+2022-11-11 17:04:35 INFO  SelectWebDriver:25 - Chrome Browser Loaded
+2022-11-11 17:04:39 INFO  IsElementDisplay:16 - User name text field is Enabled
+2022-11-11 17:04:39 INFO  IsElementDisplay:22 - Password text field is Enabled
+2022-11-11 17:09:35 INFO  SelectWebDriver:25 - Chrome Browser Loaded
+2022-11-11 17:09:39 INFO  IsElementDisplay:16 - User name text field is Enabled
+2022-11-11 17:09:39 INFO  IsElementDisplay:22 - Password text field is Enabled
+2022-11-11 17:11:06 INFO  SelectWebDriver:25 - Chrome Browser Loaded
+2022-11-11 17:11:10 INFO  IsElementDisplay:16 - User name text field is Enabled
+2022-11-11 17:11:10 INFO  IsElementDisplay:22 - Password text field is Enabled
+2022-11-11 17:12:49 INFO  SelectWebDriver:25 - Chrome Browser Loaded
+2022-11-11 17:12:53 INFO  IsElementDisplay:16 - User name text field is Enabled
+2022-11-11 17:12:53 INFO  IsElementDisplay:22 - Password text field is Enabled
+2022-11-11 17:14:11 INFO  SelectWebDriver:25 - Chrome Browser Loaded
+2022-11-11 17:14:15 INFO  IsElementDisplay:16 - User name text field is Enabled
+2022-11-11 17:14:15 INFO  IsElementDisplay:22 - Password text field is Enabled
+2022-11-11 17:16:20 INFO  SelectWebDriver:25 - Chrome Browser Loaded
+2022-11-11 17:16:24 INFO  IsElementDisplay:16 - User name text field is Enabled
+2022-11-11 17:16:24 INFO  IsElementDisplay:22 - Password text field is Enabled
+2022-11-11 17:18:05 INFO  SelectWebDriver:25 - Chrome Browser Loaded
+2022-11-11 17:19:48 INFO  SelectWebDriver:25 - Chrome Browser Loaded
+2022-11-11 17:19:52 INFO  IsElementDisplay:16 - User name text field is Enabled
+2022-11-11 17:19:52 INFO  IsElementDisplay:22 - Password text field is Enabled
+2022-11-11 17:20:16 INFO  SelectWebDriver:25 - Chrome Browser Loaded
+2022-11-11 17:20:20 INFO  IsElementDisplay:16 - User name text field is Enabled
+2022-11-11 17:20:20 INFO  IsElementDisplay:22 - Password text field is Enabled
+2022-11-11 17:32:50 INFO  SelectWebDriver:25 - Chrome Browser Loaded
+2022-11-11 17:32:55 INFO  IsElementDisplay:16 - User name text field is Enabled
+2022-11-11 17:32:55 INFO  IsElementDisplay:22 - Password text field is Enabled
+2022-11-11 17:33:35 INFO  SelectWebDriver:25 - Chrome Browser Loaded
+2022-11-11 17:33:39 INFO  IsElementDisplay:16 - User name text field is Enabled
+2022-11-11 17:33:39 INFO  IsElementDisplay:22 - Password text field is Enabled
+2022-11-11 17:46:04 INFO  SelectWebDriver:25 - Chrome Browser Loaded
+2022-11-11 17:46:08 INFO  IsElementDisplay:16 - User name text field is Enabled
+2022-11-11 17:46:08 INFO  IsElementDisplay:22 - Password text field is Enabled
+2022-11-11 17:55:39 INFO  SelectWebDriver:25 - Chrome Browser Loaded
+2022-11-11 17:55:43 INFO  IsElementDisplay:16 - User name text field is Enabled
+2022-11-11 17:55:43 INFO  IsElementDisplay:22 - Password text field is Enabled
+2022-11-11 17:55:43 INFO  BrowserUtilities:137 - Copyright Text matched
+2022-11-11 17:55:43 INFO  IsElementDisplay:17 - Footer Image is Displayed
+2022-11-14 10:31:38 INFO  SelectWebDriver:25 - Chrome Browser Loaded
+2022-11-14 10:31:43 INFO  CheckUserNamePasswordFiled:16 - User name text field is Enabled
+2022-11-14 10:31:43 INFO  CheckUserNamePasswordFiled:22 - Password text field is Enabled
+2022-11-14 10:32:42 INFO  SelectWebDriver:25 - Chrome Browser Loaded
+2022-11-14 10:32:45 INFO  CheckUserNamePasswordFiled:16 - User name text field is Enabled
+2022-11-14 10:32:46 INFO  CheckUserNamePasswordFiled:22 - Password text field is Enabled
+2022-11-14 10:34:54 INFO  SelectWebDriver:25 - Chrome Browser Loaded
+2022-11-14 10:34:57 INFO  CheckUserNamePasswordFiled:16 - User name text field is Enabled
+2022-11-14 10:34:58 INFO  CheckUserNamePasswordFiled:22 - Password text field is Enabled
+2022-11-14 11:25:04 INFO  SelectWebDriver:25 - Chrome Browser Loaded
+2022-11-14 11:25:08 INFO  CheckUserNamePasswordFiled:16 - User name text field is Enabled
+2022-11-14 11:25:08 INFO  CheckUserNamePasswordFiled:22 - Password text field is Enabled
+2022-11-14 12:59:27 INFO  SelectWebDriver:25 - Chrome Browser Loaded
+2022-11-14 12:59:31 INFO  CheckUserNamePasswordFiled:16 - User name text field is Enabled
+2022-11-14 12:59:31 INFO  CheckUserNamePasswordFiled:22 - Password text field is Enabled
+2022-11-14 12:59:31 INFO  CheckElement:33 - Element present
+2022-11-14 13:00:20 INFO  SelectWebDriver:25 - Chrome Browser Loaded
+2022-11-14 13:00:24 INFO  CheckUserNamePasswordFiled:16 - User name text field is Enabled
+2022-11-14 13:00:24 INFO  CheckUserNamePasswordFiled:22 - Password text field is Enabled
+2022-11-14 13:00:24 INFO  CheckElement:33 - Element present
+2022-11-14 13:11:48 INFO  SelectWebDriver:25 - Chrome Browser Loaded
+2022-11-14 13:11:52 INFO  CheckUserNamePasswordFiled:16 - User name text field is Enabled
+2022-11-14 13:11:53 INFO  CheckUserNamePasswordFiled:22 - Password text field is Enabled
+2022-11-14 13:11:53 INFO  CheckElement:36 - Element present
+2022-11-14 13:11:53 INFO  CheckElement:36 - Element present
+2022-11-14 13:21:16 INFO  SelectWebDriver:25 - Chrome Browser Loaded
+2022-11-14 13:21:20 INFO  CheckUserNamePasswordFiled:16 - User name text field is Enabled
+2022-11-14 13:21:20 INFO  CheckUserNamePasswordFiled:22 - Password text field is Enabled
+2022-11-14 13:21:20 INFO  CheckElement:36 - Element present
+2022-11-14 13:24:21 INFO  SelectWebDriver:25 - Chrome Browser Loaded
+2022-11-14 13:40:54 INFO  SelectWebDriver:25 - Chrome Browser Loaded
+2022-11-14 13:40:58 INFO  CheckUserNamePasswordFiled:16 - User name text field is Enabled
+2022-11-14 13:40:58 INFO  CheckUserNamePasswordFiled:22 - Password text field is Enabled
+2022-11-14 13:41:48 INFO  SelectWebDriver:25 - Chrome Browser Loaded
+2022-11-14 13:42:36 INFO  SelectWebDriver:25 - Chrome Browser Loaded
+2022-11-14 13:42:40 INFO  CheckElement:36 - Element present
+2022-11-14 13:50:32 INFO  SelectWebDriver:25 - Chrome Browser Loaded
+2022-11-14 13:50:36 INFO  CheckElement:40 - Element present
+2022-11-14 13:51:52 INFO  SelectWebDriver:25 - Chrome Browser Loaded
+2022-11-14 13:51:57 INFO  CheckElement:40 - Element present
+2022-11-14 13:56:42 INFO  SelectWebDriver:25 - Chrome Browser Loaded
+2022-11-14 13:57:30 INFO  SelectWebDriver:25 - Chrome Browser Loaded
+2022-11-14 13:57:34 INFO  CheckElement:49 - Element present
+2022-11-14 13:57:59 INFO  SelectWebDriver:25 - Chrome Browser Loaded
+2022-11-14 13:58:03 INFO  CheckElement:52 - Element not present
+2022-11-14 14:04:40 INFO  SelectWebDriver:25 - Chrome Browser Loaded
+2022-11-14 14:04:45 INFO  CheckElement:36 - Element present
+2022-11-14 14:31:26 INFO  SelectWebDriver:25 - Chrome Browser Loaded
+2022-11-14 14:31:30 INFO  SauceDemoTestScripts:48 - User Name Element is Present
+2022-11-14 14:40:20 INFO  SelectWebDriver:25 - Chrome Browser Loaded
+2022-11-14 14:40:24 INFO  CheckElement:40 - Element Username is Present 
+2022-11-14 14:40:24 INFO  SauceDemoTestScripts:48 - User Name Element is Present
+2022-11-14 15:50:30 INFO  SelectWebDriver:25 - Chrome Browser Loaded
+2022-11-14 15:50:34 INFO  CheckElement:21 - Element Username is Present 
+2022-11-14 15:50:34 INFO  LoginPage:25 - User Name Element is Present
+2022-11-14 15:51:27 INFO  SelectWebDriver:25 - Chrome Browser Loaded
+2022-11-14 15:51:31 INFO  CheckElement:21 - Element Current is Present 
+2022-11-14 15:51:31 INFO  LoginPage:25 - User Name Element is Present
+2022-11-14 15:52:46 INFO  SelectWebDriver:25 - Chrome Browser Loaded
+2022-11-14 15:58:04 INFO  SelectWebDriver:25 - Chrome Browser Loaded
+2022-11-14 16:22:17 INFO  SelectWebDriver:25 - Chrome Browser Loaded
+2022-11-14 16:22:21 INFO  CheckElement:23 - Element Username is Present 
+2022-11-14 16:22:21 INFO  SauceDemoTestScripts:49 - User Name Element is Present
+2022-11-14 16:23:14 INFO  SelectWebDriver:25 - Chrome Browser Loaded
+2022-11-14 16:23:18 INFO  CheckElement:21 - Element Username is Present 
+2022-11-14 16:23:18 INFO  SauceDemoTestScripts:49 - User Name Element is Present
+2022-11-14 16:24:28 INFO  SelectWebDriver:25 - Chrome Browser Loaded
+2022-11-14 16:24:32 INFO  CheckElement:21 - Element Username is Present 
+2022-11-14 16:24:32 INFO  SauceDemoTestScripts:49 - User Name Element is Present
+2022-11-14 16:25:11 INFO  SelectWebDriver:25 - Chrome Browser Loaded
+2022-11-14 16:25:15 INFO  CheckElement:21 - Element Username is Present 
+2022-11-14 16:25:15 INFO  SauceDemoTestScripts:49 - User Name Element is Present
+2022-11-14 16:26:41 INFO  SelectWebDriver:25 - Chrome Browser Loaded
+2022-11-14 16:26:44 INFO  CheckElement:21 - Element Username is Present 
+2022-11-14 16:26:44 INFO  SauceDemoTestScripts:49 - User Name Element is Present
+2022-11-14 17:07:13 INFO  SelectWebDriver:25 - Chrome Browser Loaded
+2022-11-14 17:07:17 INFO  CheckElement:21 - Element Username is Present 
+2022-11-14 17:07:17 INFO  SauceDemoLoginTest:46 - User Name Element is Present
+2022-11-14 17:08:46 INFO  SelectWebDriver:25 - Chrome Browser Loaded
+2022-11-14 17:08:49 INFO  CheckElement:21 - Element sdf is Present 
+2022-11-14 17:08:49 INFO  SauceDemoLoginTest:46 - User Name Element is Present
+2022-11-14 17:13:41 INFO  SelectWebDriver:25 - Chrome Browser Loaded
+2022-11-14 17:13:45 INFO  CheckElement:21 - Element Username is Present 
+2022-11-14 17:13:45 INFO  SauceDemoLoginTest:46 - User Name Element is Present
+2022-11-14 17:16:42 INFO  SelectWebDriver:25 - Chrome Browser Loaded
+2022-11-14 17:16:46 INFO  CheckElement:21 - Element Username is Present 
+2022-11-14 17:16:46 INFO  SauceDemoLoginTest:46 - User Name Element is Present
+2022-11-14 17:17:49 INFO  SelectWebDriver:25 - Chrome Browser Loaded
+2022-11-14 17:17:52 INFO  CheckElement:21 - Element Username is Present 
+2022-11-14 17:17:52 INFO  SauceDemoLoginTest:46 - User Name Element is Present
+2022-11-14 17:20:51 INFO  SelectWebDriver:25 - Chrome Browser Loaded
+2022-11-14 17:20:55 INFO  CheckElement:21 - Element Username is Present 
+2022-11-14 17:20:55 INFO  SauceDemoLoginTest:46 - User Name Element is Present
+2022-11-14 17:23:10 INFO  SelectWebDriver:25 - Chrome Browser Loaded
+2022-11-14 17:23:13 INFO  CheckElement:21 - Element Username is Present 
+2022-11-14 17:23:13 INFO  SauceDemoLoginTest:46 - User Name Element is Present
+2022-11-14 17:24:26 INFO  SelectWebDriver:25 - Chrome Browser Loaded
+2022-11-14 17:24:29 INFO  CheckElement:21 - Element Username is Present 
+2022-11-14 17:24:29 INFO  SauceDemoLoginTest:46 - User Name Element is Present
+2022-11-14 17:27:36 INFO  SelectWebDriver:25 - Chrome Browser Loaded
+2022-11-14 17:27:40 INFO  CheckElement:21 - Element Username is Present 
+2022-11-14 17:27:40 INFO  SauceDemoLoginTest:46 - User Name Element is Present
+2022-11-14 17:31:02 INFO  SelectWebDriver:25 - Chrome Browser Loaded
+2022-11-14 17:31:06 INFO  CheckElement:21 - Element Username is Present 
+2022-11-14 17:31:06 INFO  SauceDemoLoginTest:46 - User Name Element is Present
+2022-11-14 17:31:27 INFO  SelectWebDriver:25 - Chrome Browser Loaded
+2022-11-14 17:31:31 INFO  CheckElement:21 - Element Username is Present 
+2022-11-14 17:31:31 INFO  SauceDemoLoginTest:46 - User Name Element is Present
+2022-11-14 17:35:54 INFO  SelectWebDriver:25 - Chrome Browser Loaded
+2022-11-14 17:35:58 INFO  CheckElement:21 - Element Username is Present 
+2022-11-14 17:35:58 INFO  SauceDemoLoginTest:46 - User Name Element is Present
+2022-11-14 17:42:05 INFO  SelectWebDriver:25 - Chrome Browser Loaded
+2022-11-14 17:42:08 INFO  CheckElement:21 - Element Username is Present 
+2022-11-14 17:42:08 INFO  SauceDemoLoginTest:47 - User Name Element is Present
+2022-11-14 17:43:55 INFO  SelectWebDriver:25 - Chrome Browser Loaded
+2022-11-14 17:43:59 INFO  CheckElement:21 - Element Username is Present 
+2022-11-14 17:43:59 INFO  SauceDemoLoginTest:46 - User Name Element is Present
+2022-11-14 17:53:14 INFO  SelectWebDriver:25 - Chrome Browser Loaded
+2022-11-14 17:53:19 INFO  CheckElement:21 - Element Username is Present 
+2022-11-14 17:53:19 INFO  SauceDemoLoginTest:46 - User Name Element is Present
+2022-11-14 17:59:03 INFO  SelectWebDriver:25 - Chrome Browser Loaded
+2022-11-14 17:59:07 INFO  CheckElement:21 - Element Username is Present 
+2022-11-14 17:59:07 INFO  SauceDemoLoginTest:48 - User Name Element is Present
+2022-11-14 17:59:07 INFO  SauceDemoLoginTest:51 - Entered the user name: standard_user
+2022-11-14 18:18:33 INFO  SelectWebDriver:25 - Chrome Browser Loaded
+2022-11-14 18:18:37 INFO  CheckElement:22 - Element Username is Present 
+2022-11-14 18:18:37 INFO  CheckElement:31 - User Name Element is Present
+2022-11-14 18:18:37 INFO  CheckElement:34 - Entered the user name: standard_user
+2022-11-14 18:21:09 INFO  SelectWebDriver:25 - Chrome Browser Loaded
+2022-11-14 18:21:13 INFO  CheckElement:22 - Element Username is Present 
+2022-11-14 18:21:13 INFO  CheckElement:31 - User Name Element is Present
+2022-11-14 18:21:13 INFO  CheckElement:34 - Entered the user name: standard_user
+2022-11-14 18:23:23 INFO  SelectWebDriver:25 - Chrome Browser Loaded
+2022-11-14 18:23:26 INFO  CheckElement:22 - Element Username is Present 
+2022-11-14 18:23:26 INFO  CheckElement:31 - User Name Element is Present
+2022-11-14 18:23:26 INFO  CheckElement:34 - Entered the user name: standard_user
+2022-11-14 18:24:24 INFO  SelectWebDriver:25 - Chrome Browser Loaded
+2022-11-14 18:24:27 INFO  CheckElement:22 - Element Username is Present 
+2022-11-14 18:24:27 INFO  CheckElement:31 - User Name Element is Present
+2022-11-14 18:24:27 INFO  CheckElement:34 - Entered the user name: standard_user
+2022-11-14 18:26:42 INFO  SelectWebDriver:25 - Chrome Browser Loaded
+2022-11-14 18:26:46 INFO  CheckElement:22 - Element Username is Present 
+2022-11-14 18:26:46 INFO  CheckElement:31 - User Name Element is Present
+2022-11-14 18:26:46 INFO  CheckElement:34 - Entered the user name: standard_user
+2022-11-14 18:27:56 INFO  SelectWebDriver:25 - Chrome Browser Loaded
+2022-11-14 18:28:00 INFO  CheckElement:22 - Element Username is Present 
+2022-11-14 18:28:00 INFO  CheckElement:31 - User Name Element is Present
+2022-11-14 18:28:00 INFO  CheckElement:34 - Entered the user name: standard_user
+2022-11-14 18:58:58 INFO  SelectWebDriver:25 - Chrome Browser Loaded
+2022-11-14 18:59:02 INFO  CheckElement:22 - Element Username is Present 
+2022-11-14 18:59:02 INFO  CheckElement:31 - User Name Element is Present
+2022-11-14 18:59:02 INFO  CheckElement:34 - Entered the user name: standard_user
+2022-11-14 19:00:34 INFO  SelectWebDriver:25 - Chrome Browser Loaded
+2022-11-14 19:02:30 INFO  SelectWebDriver:25 - Chrome Browser Loaded
+2022-11-14 19:02:34 INFO  CheckElement:22 - Element Username is Present 
+2022-11-14 19:02:34 INFO  CheckElement:31 - User Name Element is Present
+2022-11-14 19:02:34 INFO  CheckElement:34 - Entered the user name: standard_user
+2022-11-14 19:03:10 INFO  SelectWebDriver:25 - Chrome Browser Loaded
+2022-11-14 19:03:14 INFO  CheckElement:22 - Element Username is Present 
+2022-11-14 19:03:14 INFO  CheckElement:31 - User Name Element is Present
+2022-11-14 19:03:14 INFO  CheckElement:34 - Entered the user name: standard_user
+2022-11-14 19:04:10 INFO  SelectWebDriver:25 - Chrome Browser Loaded
+2022-11-14 19:04:14 INFO  CheckElement:22 - Element Username is Present 
+2022-11-14 19:04:14 INFO  CheckElement:31 - User Name Element is Present
+2022-11-14 19:04:14 INFO  CheckElement:34 - Entered the user name: standard_user
+2022-11-14 19:09:30 INFO  SelectWebDriver:25 - Chrome Browser Loaded
+2022-11-14 19:09:34 INFO  CheckElement:22 - Element Username is Present 
+2022-11-14 19:09:34 INFO  CheckElement:31 - User Name Element is Present
+2022-11-14 19:09:34 INFO  CheckElement:34 - Entered the user name: standard_user
+2022-11-14 19:11:31 INFO  SelectWebDriver:25 - Chrome Browser Loaded
+2022-11-14 19:11:34 INFO  CheckElement:22 - Element Username is Present 
+2022-11-14 19:11:34 INFO  CheckElement:31 - User Name Element is Present
+2022-11-14 19:11:34 INFO  CheckElement:34 - Entered the user name: standard_user
+2022-11-14 19:13:08 INFO  SelectWebDriver:25 - Chrome Browser Loaded
+2022-11-14 19:14:07 INFO  SelectWebDriver:25 - Chrome Browser Loaded
+2022-11-14 19:15:12 INFO  SelectWebDriver:25 - Chrome Browser Loaded
+2022-11-14 19:15:16 INFO  CheckElement:22 - Element Username is Present 
+2022-11-14 19:15:16 INFO  CheckElement:31 - User Name Element is Present
+2022-11-14 19:15:16 INFO  CheckElement:34 - Entered the user name: standard_user
+2022-11-14 19:15:41 INFO  SelectWebDriver:25 - Chrome Browser Loaded
+2022-11-14 19:15:45 INFO  CheckElement:22 - Element expUserName is Present 
+2022-11-14 19:15:45 INFO  CheckElement:31 - User Name Element is Present
+2022-11-14 19:15:45 INFO  CheckElement:34 - Entered the user name: standard_user
+2022-11-14 19:17:20 INFO  SelectWebDriver:25 - Chrome Browser Loaded
+2022-11-14 19:17:24 INFO  CheckElement:22 - Element expUserName is Present 
+2022-11-14 19:17:24 INFO  CheckElement:31 - User Name Element is Present
+2022-11-14 19:17:24 INFO  CheckElement:34 - Entered the user name: standard_user
+2022-11-14 19:19:08 INFO  SelectWebDriver:25 - Chrome Browser Loaded
+2022-11-14 19:19:12 INFO  CheckElement:22 - Element expUserName is Present 
+2022-11-14 19:19:12 INFO  CheckElement:31 - User Name Element is Present
+2022-11-14 19:19:12 INFO  CheckElement:34 - Entered the user name: standard_user
+2022-11-14 19:22:46 INFO  SelectWebDriver:25 - Chrome Browser Loaded
+2022-11-14 19:22:49 INFO  CheckElement:22 - Element expUserName is Present 
+2022-11-14 19:22:49 INFO  CheckElement:31 - User Name Element is Present
+2022-11-14 19:22:50 INFO  CheckElement:34 - Entered the user name: standard_user
+2022-11-14 19:37:23 INFO  SelectWebDriver:25 - Chrome Browser Loaded
+2022-11-14 19:37:27 INFO  CheckElement:22 - Element expUserName is Present 
+2022-11-14 19:37:27 INFO  CheckElement:31 - User Name Element is Present
+2022-11-14 19:37:27 INFO  CheckElement:34 - Entered the user name: standard_user
+2022-11-14 19:38:47 INFO  SelectWebDriver:25 - Chrome Browser Loaded
+2022-11-14 19:38:51 INFO  CheckElement:22 - Element expUserName is Present 
+2022-11-14 19:38:51 INFO  CheckElement:31 - User Name Element is Present
+2022-11-14 19:38:51 INFO  CheckElement:34 - Entered the user name: standard_user
+2022-11-14 19:39:33 INFO  SelectWebDriver:25 - Chrome Browser Loaded
+2022-11-14 19:39:37 INFO  CheckElement:22 - Element expUserName is Present 
+2022-11-14 19:39:37 INFO  CheckElement:31 - User Name Element is Present
+2022-11-14 19:39:37 INFO  CheckElement:34 - Entered the user name: standard_user
+2022-11-14 19:42:11 INFO  SelectWebDriver:25 - Chrome Browser Loaded
+2022-11-14 19:42:16 INFO  CheckElement:22 - Element expUserName is Present 
+2022-11-14 19:42:16 INFO  CheckElement:31 - User Name Element is Present
+2022-11-14 19:42:16 INFO  CheckElement:34 - Entered the user name: standard_user
+2022-11-14 20:16:35 INFO  SelectWebDriver:25 - Chrome Browser Loaded
+2022-11-14 20:16:39 INFO  CheckElement:22 - Element User Name is Present 
+2022-11-14 20:16:39 INFO  CheckElement:32 - User Name Element is Present
+2022-11-14 20:16:39 INFO  CheckElement:35 - Entered the user name: standard_user
+2022-11-14 20:23:49 INFO  SelectWebDriver:25 - Chrome Browser Loaded
+2022-11-14 20:23:53 INFO  CheckElement:22 - Element standard_user is Present 
+2022-11-14 20:23:53 INFO  CheckElement:32 - User Name Element is Present
+2022-11-14 20:23:53 INFO  CheckElement:35 - Entered the user name: standard_user
+2022-11-14 20:25:19 INFO  SelectWebDriver:25 - Chrome Browser Loaded
+2022-11-14 20:25:22 INFO  CheckElement:22 - Element User Name is Present 
+2022-11-14 20:25:22 INFO  CheckElement:32 - User Name Element is Present
+2022-11-14 20:25:22 INFO  CheckElement:35 - Entered the user name: standard_user
+2022-11-14 20:30:33 INFO  SelectWebDriver:25 - Chrome Browser Loaded
+2022-11-14 20:30:37 INFO  CheckElement:22 - Element User Name is Present 
+2022-11-14 20:30:37 INFO  CheckElement:32 - User Name Element is Present
+2022-11-14 20:30:37 INFO  CheckElement:35 - Entered the user name: standard_user
+2022-11-14 20:51:59 INFO  SelectWebDriver:25 - Chrome Browser Loaded
+2022-11-14 20:52:03 INFO  CheckElement:22 - Element User Name is Present 
+2022-11-14 20:52:03 INFO  CheckElement:32 - User Name Element is Present
+2022-11-14 20:52:03 INFO  CheckElement:35 - Entered the user name: standard_user
+2022-11-14 20:52:03 INFO  CheckElement:22 - Element Pass Word is Present 
+2022-11-14 20:52:03 INFO  CheckElement:32 - User Name Element is Present
+2022-11-14 20:52:03 INFO  CheckElement:35 - Entered the user name: secret_sauce
+2022-11-14 20:55:17 INFO  SelectWebDriver:25 - Chrome Browser Loaded
+2022-11-14 20:55:20 INFO  CheckElement:22 - Element User Name is Present 
+2022-11-14 20:55:21 INFO  CheckElement:34 - Entered the user name: standard_user
+2022-11-14 20:55:21 INFO  CheckElement:35 - Entered the Password: standard_user
+2022-11-14 20:55:21 INFO  CheckElement:22 - Element Pass Word is Present 
+2022-11-14 20:55:21 INFO  CheckElement:34 - Entered the user name: secret_sauce
+2022-11-14 20:55:21 INFO  CheckElement:35 - Entered the Password: secret_sauce
+2022-11-14 20:55:39 INFO  SelectWebDriver:25 - Chrome Browser Loaded
+2022-11-14 20:55:43 INFO  CheckElement:22 - Element User Name is Present 
+2022-11-14 20:55:43 INFO  CheckElement:34 - Entered the user name: standard_user
+2022-11-14 20:55:43 INFO  CheckElement:35 - Entered the Password: standard_user
+2022-11-14 20:55:43 INFO  CheckElement:22 - Element Pass Word is Present 
+2022-11-14 20:55:43 INFO  CheckElement:34 - Entered the user name: secret_sauce
+2022-11-14 20:55:43 INFO  CheckElement:35 - Entered the Password: secret_sauce
+2022-11-14 20:56:16 INFO  SelectWebDriver:25 - Chrome Browser Loaded
+2022-11-14 20:56:19 INFO  CheckElement:22 - Element User Name is Present 
+2022-11-14 20:56:19 INFO  CheckElement:34 - Entered the user name: standard_user
+2022-11-14 20:56:19 INFO  CheckElement:35 - Entered the Password: standard_user
+2022-11-14 20:56:19 INFO  CheckElement:22 - Element Pass Word is Present 
+2022-11-14 20:56:20 INFO  CheckElement:34 - Entered the user name: secret_sauce
+2022-11-14 20:56:20 INFO  CheckElement:35 - Entered the Password: secret_sauce
+2022-11-14 20:56:56 INFO  SelectWebDriver:25 - Chrome Browser Loaded
+2022-11-14 20:56:59 INFO  CheckElement:22 - Element User Name is Present 
+2022-11-14 20:57:00 INFO  CheckElement:34 - Entered text is: standard_user
+2022-11-14 20:57:00 INFO  CheckElement:22 - Element Pass Word is Present 
+2022-11-14 20:57:00 INFO  CheckElement:34 - Entered text is: secret_sauce
+2022-11-14 23:05:08 INFO  SelectWebDriver:25 - Chrome Browser Loaded
+2022-11-14 23:05:09 ERROR SelectWebDriver:43 - User could not get the Browser URL
+2022-11-14 23:05:44 INFO  SelectWebDriver:25 - Chrome Browser Loaded
+2022-11-14 23:05:44 ERROR SelectWebDriver:43 - User could not get the Browser URL
+2022-11-14 23:07:00 INFO  SelectWebDriver:25 - Chrome Browser Loaded
+2022-11-14 23:07:06 INFO  CheckElement:22 - Element User Name is Present 
+2022-11-14 23:07:06 INFO  CheckElement:35 - Entered text is: standard_user
+2022-11-14 23:07:06 INFO  CheckElement:22 - Element Pass Word is Present 
+2022-11-14 23:07:06 INFO  CheckElement:35 - Entered text is: secret_sauce
+2022-11-14 23:29:07 INFO  SelectWebDriver:25 - Chrome Browser Loaded
+2022-11-14 23:29:11 INFO  CheckElement:22 - Element User Name is Present 
+2022-11-14 23:29:11 INFO  CheckElement:37 - Enter User Name :- standard_user
+2022-11-14 23:29:11 INFO  CheckElement:22 - Element Pass Word is Present 
+2022-11-14 23:29:11 INFO  CheckElement:37 - Enter Pass Word :- secret_sauce
+2022-11-14 23:31:28 INFO  SelectWebDriver:25 - Chrome Browser Loaded
+2022-11-14 23:31:33 INFO  CheckElement:22 - Element User Name is Present 
+2022-11-14 23:31:33 INFO  CheckElement:37 - Enter:- User Name :- standard_user
+2022-11-14 23:31:33 INFO  CheckElement:22 - Element Pass Word is Present 
+2022-11-14 23:31:33 INFO  CheckElement:37 - Enter:- Pass Word :- secret_sauce
+2022-11-14 23:35:01 INFO  SelectWebDriver:25 - Chrome Browser Loaded
+2022-11-14 23:35:05 INFO  CheckElement:22 - Element User Name is Present 
+2022-11-14 23:35:05 INFO  CheckElement:35 - Entered User Nameis: standard_user
+2022-11-14 23:35:05 INFO  CheckElement:22 - Element Pass Word is Present 
+2022-11-14 23:35:05 INFO  CheckElement:35 - Entered Pass Wordis: secret_sauce
+2022-11-14 23:41:10 INFO  SelectWebDriver:25 - Chrome Browser Loaded
+2022-11-14 23:41:15 INFO  CheckElement:22 - Element User Name is Present 
+2022-11-14 23:41:15 INFO  CheckElement:35 - Entered User Name is: standard_user
+2022-11-14 23:41:15 INFO  CheckElement:22 - Element Pass Word is Present 
+2022-11-14 23:41:15 INFO  CheckElement:35 - Entered Pass Word is: secret_sauce
+2022-11-15 00:31:03 INFO  SelectWebDriver:25 - Chrome Browser Loaded
+2022-11-15 00:31:09 INFO  CheckElement:22 - Element User Name is Present 
+2022-11-15 00:31:09 INFO  CheckElement:22 - Element User Name is Present 
+2022-11-15 00:31:09 INFO  CheckElement:35 - Entered User Name is: standard_user
+2022-11-15 00:31:09 INFO  CheckElement:22 - Element Pass Word is Present 
+2022-11-15 00:31:09 INFO  CheckElement:22 - Element Pass Word is Present 
+2022-11-15 00:31:09 INFO  CheckElement:35 - Entered Pass Word is: secret_sauce
+2022-11-15 00:31:09 INFO  CheckElement:49 - Button is Enabled
+2022-11-15 00:32:00 INFO  SelectWebDriver:25 - Chrome Browser Loaded
+2022-11-15 00:32:05 INFO  CheckElement:22 - Element User Name is Present 
+2022-11-15 00:32:05 INFO  CheckElement:22 - Element User Name is Present 
+2022-11-15 00:32:05 INFO  CheckElement:37 - Enterted User Nameis NOT 
+2022-11-15 00:32:05 INFO  CheckElement:22 - Element Pass Word is Present 
+2022-11-15 00:32:05 INFO  CheckElement:22 - Element Pass Word is Present 
+2022-11-15 00:32:05 INFO  CheckElement:37 - Enterted Pass Wordis NOT 
+2022-11-15 00:32:05 INFO  CheckElement:49 - Button is Enabled
+2022-11-15 00:33:15 INFO  SelectWebDriver:25 - Chrome Browser Loaded
+2022-11-15 00:33:20 INFO  CheckElement:22 - Element User Name is Present 
+2022-11-15 00:33:20 INFO  CheckElement:22 - Element User Name is Present 
+2022-11-15 00:33:20 INFO  CheckElement:37 - Enterted User Nameis NOT 
+2022-11-15 00:33:20 INFO  CheckElement:22 - Element Pass Word is Present 
+2022-11-15 00:33:20 INFO  CheckElement:22 - Element Pass Word is Present 
+2022-11-15 00:33:20 INFO  CheckElement:37 - Enterted Pass Wordis NOT 
+2022-11-15 00:33:20 INFO  CheckElement:49 - Button is Enabled
+2022-11-15 00:44:37 INFO  SelectWebDriver:25 - Chrome Browser Loaded
+2022-11-15 00:44:42 INFO  CheckElement:22 - Element User Name is Present 
+2022-11-15 00:44:42 INFO  CheckElement:34 - Entered User Name is: standard_user
+2022-11-15 00:44:42 INFO  CheckElement:22 - Element Pass Word is Present 
+2022-11-15 00:44:42 INFO  CheckElement:34 - Entered Pass Word is: secret_sauce
+2022-11-15 00:44:42 INFO  CheckElement:48 - Button is Enabled
+2022-11-15 00:45:25 INFO  SelectWebDriver:25 - Chrome Browser Loaded
+2022-11-15 00:45:30 INFO  CheckElement:22 - Element User Name is Present 
+2022-11-15 00:45:30 INFO  CheckElement:34 - Entered User Name is: standard_user
+2022-11-15 00:45:30 INFO  CheckElement:22 - Element Pass Word is Present 
+2022-11-15 00:45:30 INFO  CheckElement:34 - Entered Pass Word is: secret_sauce
+2022-11-15 00:45:30 INFO  CheckElement:48 - Button is Enabled
+2022-11-15 00:46:28 INFO  SelectWebDriver:25 - Chrome Browser Loaded
+2022-11-15 00:46:33 INFO  CheckElement:22 - Element User Name is Present 
+2022-11-15 00:46:33 INFO  CheckElement:34 - Entered User Name is: standard_user
+2022-11-15 00:46:33 INFO  CheckElement:22 - Element Pass Word is Present 
+2022-11-15 00:46:33 INFO  CheckElement:34 - Entered Pass Word is: secret_sauce
+2022-11-15 00:46:33 INFO  CheckElement:48 - Button is Enabled
+2022-11-15 00:47:00 INFO  SelectWebDriver:25 - Chrome Browser Loaded
+2022-11-15 00:47:04 INFO  CheckElement:22 - Element User Name is Present 
+2022-11-15 00:47:05 INFO  CheckElement:34 - Entered User Name is: standard_user
+2022-11-15 00:47:05 INFO  CheckElement:22 - Element Pass Word is Present 
+2022-11-15 00:47:05 INFO  CheckElement:34 - Entered Pass Word is: secret_sauce
+2022-11-15 00:47:05 INFO  CheckElement:48 - Button is Enabled
+2022-11-15 00:48:15 INFO  SelectWebDriver:25 - Chrome Browser Loaded
+2022-11-15 00:48:20 INFO  CheckElement:22 - Element User Name is Present 
+2022-11-15 00:48:20 INFO  CheckElement:34 - Entered User Name is: standard_user
+2022-11-15 00:48:20 INFO  CheckElement:22 - Element Pass Word is Present 
+2022-11-15 00:48:20 INFO  CheckElement:34 - Entered Pass Word is: secret_sauce
+2022-11-15 00:48:20 INFO  CheckElement:48 - Button is Enabled
+2022-11-15 00:52:41 INFO  SelectWebDriver:25 - Chrome Browser Loaded
+2022-11-15 00:52:46 INFO  CheckElement:22 - Element User Name is Present 
+2022-11-15 00:52:46 INFO  CheckElement:34 - Entered User Name is: standard_user
+2022-11-15 00:52:46 INFO  CheckElement:22 - Element Pass Word is Present 
+2022-11-15 00:52:46 INFO  CheckElement:34 - Entered Pass Word is: secret_sauce
+2022-11-15 00:52:46 INFO  CheckElement:48 - Button is Enabled
+2022-11-15 00:53:41 INFO  SelectWebDriver:25 - Chrome Browser Loaded
+2022-11-15 00:53:46 INFO  CheckElement:22 - Element User Name is Present 
+2022-11-15 00:53:46 INFO  CheckElement:34 - Entered User Name is: standard_user
+2022-11-15 00:53:46 INFO  CheckElement:22 - Element Pass Word is Present 
+2022-11-15 00:53:46 INFO  CheckElement:34 - Entered Pass Word is: secret_sauce
+2022-11-15 00:53:46 INFO  CheckElement:48 - Button is Enabled
+2022-11-15 00:59:49 INFO  SelectWebDriver:25 - Chrome Browser Loaded
+2022-11-15 01:00:47 INFO  SelectWebDriver:25 - Chrome Browser Loaded
+2022-11-15 01:00:52 INFO  CheckElement:22 - Element User Name is Present 
+2022-11-15 01:00:52 INFO  CheckElement:34 - Entered User Name is: standard_user
+2022-11-15 01:00:52 INFO  CheckElement:22 - Element Pass Word is Present 
+2022-11-15 01:00:52 INFO  CheckElement:34 - Entered Pass Word is: secret_sauce
+2022-11-15 01:00:52 INFO  CheckElement:22 - Element Login Button is Present 
+2022-11-15 01:00:52 INFO  CheckElement:56 - Button is Clickable
+2022-11-15 01:15:30 INFO  SelectWebDriver:25 - Chrome Browser Loaded
+2022-11-15 01:15:35 INFO  CheckElement:22 - Element User Name is Present 
+2022-11-15 01:15:35 INFO  CheckElement:31 - Entered User Name is: standard_user
+2022-11-15 01:15:35 INFO  CheckElement:22 - Element Pass Word is Present 
+2022-11-15 01:15:35 INFO  CheckElement:31 - Entered Pass Word is: secret_sauce
+2022-11-15 01:15:35 INFO  CheckElement:45 - Element Login Button is Present 
+2022-11-15 01:15:35 INFO  CheckElement:52 - Button is Clickable
+2022-11-15 10:22:22 INFO  SelectWebDriver:25 - Chrome Browser Loaded
+2022-11-15 10:22:26 INFO  CheckElement:22 - Element User Name is Present 
+2022-11-15 10:22:26 INFO  CheckElement:31 - Entered User Name is: standard_user
+2022-11-15 10:22:26 INFO  CheckElement:22 - Element Pass Word is Present 
+2022-11-15 10:22:26 INFO  CheckElement:31 - Entered Pass Word is: secret_sauce
+2022-11-15 10:22:26 INFO  CheckElement:22 - Element Login Button is Present 
+2022-11-15 10:22:26 INFO  CheckElement:53 - Button is Clickable
+2022-11-15 10:23:15 INFO  SelectWebDriver:25 - Chrome Browser Loaded
+2022-11-15 10:23:19 INFO  CheckElement:22 - Element User Name is Present 
+2022-11-15 10:23:19 INFO  CheckElement:31 - Entered User Name is: standard_user
+2022-11-15 10:23:19 INFO  CheckElement:22 - Element Pass Word is Present 
+2022-11-15 10:23:19 INFO  CheckElement:31 - Entered Pass Word is: secret_sauce
+2022-11-15 10:23:19 INFO  CheckElement:22 - Element Login Button is Present 
+2022-11-15 10:23:19 INFO  CheckElement:53 - Button is Clickable
+2022-11-15 10:25:25 INFO  SelectWebDriver:25 - Chrome Browser Loaded
+2022-11-15 10:25:29 INFO  CheckElement:22 - Element User Name is Present 
+2022-11-15 10:25:29 INFO  CheckElement:31 - Entered User Name is: standard_user
+2022-11-15 10:25:29 INFO  CheckElement:22 - Element Pass Word is Present 
+2022-11-15 10:25:29 INFO  CheckElement:31 - Entered Pass Word is: secret_sauce
+2022-11-15 10:25:29 INFO  CheckElement:22 - Element Login Button is Present 
+2022-11-15 10:25:29 INFO  CheckElement:53 - Button is Clickable
+2022-11-15 10:28:35 INFO  SelectWebDriver:25 - Chrome Browser Loaded
+2022-11-15 10:28:39 INFO  CheckElement:22 - Element User Name is Present 
+2022-11-15 10:28:39 INFO  CheckElement:31 - Entered User Name is: standard_user
+2022-11-15 10:28:39 INFO  CheckElement:22 - Element Pass Word is Present 
+2022-11-15 10:28:40 INFO  CheckElement:31 - Entered Pass Word is: secret_sauce
+2022-11-15 10:28:40 INFO  CheckElement:22 - Element Login Button is Present 
+2022-11-15 10:28:40 INFO  CheckElement:53 - Button is Clickable
+2022-11-15 10:28:57 INFO  SelectWebDriver:25 - Chrome Browser Loaded
+2022-11-15 10:29:01 INFO  CheckElement:22 - Element User Name is Present 
+2022-11-15 10:29:01 INFO  CheckElement:31 - Entered User Name is: standard_user
+2022-11-15 10:29:01 INFO  CheckElement:22 - Element Pass Word is Present 
+2022-11-15 10:29:01 INFO  CheckElement:31 - Entered Pass Word is: secret_sauce
+2022-11-15 10:29:01 INFO  CheckElement:22 - Element Login Button is Present 
+2022-11-15 10:29:01 INFO  CheckElement:53 - Button is Clickable
+2022-11-15 10:47:35 INFO  SelectWebDriver:25 - Chrome Browser Loaded
+2022-11-15 10:47:39 INFO  CheckElement:22 - Element User Name is Present 
+2022-11-15 10:47:39 INFO  CheckTextField:17 - Entered User Name is: standard_user
+2022-11-15 10:47:39 INFO  CheckElement:22 - Element Pass Word is Present 
+2022-11-15 10:47:39 INFO  CheckTextField:17 - Entered Pass Word is: secret_sauce
+2022-11-15 10:47:39 INFO  CheckButtonElement:19 - Element Login Button is Enabled
+2022-11-15 10:47:39 INFO  CheckButtonEnableorNot:15 - Button is Clickable
+2022-11-15 11:03:44 INFO  SelectWebDriver:25 - Chrome Browser Loaded
+2022-11-15 11:03:48 INFO  CheckElement:22 - Element User Name is Present 
+2022-11-15 11:03:48 INFO  CheckTextField:16 - Entered User Name is: standard_user
+2022-11-15 11:03:48 INFO  CheckElement:22 - Element Pass Word is Present 
+2022-11-15 11:03:48 INFO  CheckTextField:16 - Entered Pass Word is: secret_sauce
+2022-11-15 11:03:48 INFO  CheckButtonElement:19 - Element Login Button is Enabled
+2022-11-15 11:03:48 INFO  CheckButtonAction:15 - Button is Clickable
+2022-11-15 11:06:43 INFO  SelectWebDriver:25 - Chrome Browser Loaded
+2022-11-15 11:06:47 INFO  CheckElement:22 - Element User Name is Present 
+2022-11-15 11:06:47 INFO  CheckTextField:16 - Entered User Name is: standard_user
+2022-11-15 11:06:47 INFO  CheckElement:22 - Element Pass Word is Present 
+2022-11-15 11:06:47 INFO  CheckTextField:16 - Entered Pass Word is: secret_sauce
+2022-11-15 11:06:47 INFO  CheckButtonElement:19 - Element Login Button is Enabled
+2022-11-15 11:06:48 INFO  CheckButtonAction:15 - Button is Clickable
+2022-11-15 11:12:11 INFO  SelectWebDriver:25 - Chrome Browser Loaded
+2022-11-15 11:12:15 INFO  CheckElement:22 - Element User Name is Present 
+2022-11-15 11:12:15 INFO  CheckTextField:16 - Entered User Name is: standard_user
+2022-11-15 11:12:15 INFO  CheckElement:22 - Element Pass Word is Present 
+2022-11-15 11:12:15 INFO  CheckTextField:16 - Entered Pass Word is: secret_sauce
+2022-11-15 11:12:15 INFO  CheckButtonElement:19 - Element Login Button is Enabled
+2022-11-15 11:12:15 INFO  CheckButtonAction:15 - Button is Clickable
+2022-11-15 11:13:38 INFO  SelectWebDriver:25 - Chrome Browser Loaded
+2022-11-15 11:13:42 INFO  CheckElement:22 - Element User Name is Present 
+2022-11-15 11:13:42 INFO  CheckTextField:16 - Entered User Name is: standard_user
+2022-11-15 11:13:42 INFO  CheckElement:22 - Element Pass Word is Present 
+2022-11-15 11:13:42 INFO  CheckTextField:16 - Entered Pass Word is: secret_sauce
+2022-11-15 11:13:42 INFO  CheckButtonElement:19 - Element Login Button is Clicked
+2022-11-15 11:13:42 INFO  CheckButtonAction:15 - Button is Clickable
+2022-11-15 11:14:55 INFO  SelectWebDriver:25 - Chrome Browser Loaded
+2022-11-15 11:14:59 INFO  CheckElement:22 - Element User Name is Present 
+2022-11-15 11:15:00 INFO  CheckTextField:16 - Entered User Name is: standard_user
+2022-11-15 11:15:00 INFO  CheckElement:22 - Element Pass Word is Present 
+2022-11-15 11:15:00 INFO  CheckTextField:16 - Entered Pass Word is: secret_sauce
+2022-11-15 11:15:00 INFO  CheckButtonElement:19 - Element Login Button is Enabled
+2022-11-15 11:15:00 INFO  CheckButtonAction:15 - Login ButtonButton is Clicked
+2022-11-15 11:15:56 INFO  SelectWebDriver:25 - Chrome Browser Loaded
+2022-11-15 11:16:00 INFO  CheckElement:22 - Element User Name is Present 
+2022-11-15 11:16:00 INFO  CheckTextField:16 - Entered User Name is: standard_user
+2022-11-15 11:16:00 INFO  CheckElement:22 - Element Pass Word is Present 
+2022-11-15 11:16:00 INFO  CheckTextField:16 - Entered Pass Word is: secret_sauce
+2022-11-15 11:16:00 INFO  CheckButtonElement:19 - Element Login Button is Enabled
+2022-11-15 11:16:00 INFO  CheckButtonAction:15 - Login Button is Clicked
+2022-11-15 11:18:04 INFO  SelectWebDriver:25 - Chrome Browser Loaded
+2022-11-15 11:18:08 INFO  CheckElement:22 - Element User Name is Present 
+2022-11-15 11:18:08 INFO  CheckTextField:16 - Entered User Name is: standard_user
+2022-11-15 11:18:08 INFO  CheckElement:22 - Element Pass Word is Present 
+2022-11-15 11:18:08 INFO  CheckTextField:16 - Entered Pass Word is: secret_sauce
+2022-11-15 11:18:08 INFO  CheckButtonElement:19 - Element Login Button is Enabled
+2022-11-15 11:18:09 INFO  CheckButtonAction:15 - Login Button is Clicked
+2022-11-15 11:29:21 INFO  SelectWebDriver:25 - Chrome Browser Loaded
+2022-11-15 11:29:25 INFO  CheckElement:22 - Element User Name is Present 
+2022-11-15 11:29:25 INFO  CheckTextField:16 - Entered User Name is: standard_user
+2022-11-15 11:29:25 INFO  CheckElement:22 - Element Pass Word is Present 
+2022-11-15 11:29:25 INFO  CheckTextField:16 - Entered Pass Word is: secret_sauce
+2022-11-15 11:29:25 INFO  CheckButtonElement:19 - Element Login Button is Enabled
+2022-11-15 11:29:25 INFO  CheckButtonAction:15 - Login Button is Clicked
+2022-11-15 12:18:10 INFO  SelectWebDriver:25 - Chrome Browser Loaded
+2022-11-15 12:18:14 INFO  CheckElement:22 - Element User Name is Present 
+2022-11-15 12:18:14 INFO  CheckTextField:16 - Entered User Name is: standard_user
+2022-11-15 12:18:14 INFO  CheckElement:22 - Element Password is Present 
+2022-11-15 12:18:14 INFO  CheckTextField:16 - Entered Password is: secret_sauce
+2022-11-15 12:18:14 INFO  CheckButtonElement:19 - Element Login Button is Enabled
+2022-11-15 12:18:14 INFO  CheckButtonAction:15 - Login Button is Clicked
+2022-11-15 12:26:16 INFO  SelectWebDriver:25 - Chrome Browser Loaded
+2022-11-15 12:27:29 INFO  SelectWebDriver:25 - Chrome Browser Loaded
+2022-11-15 12:31:27 INFO  SelectWebDriver:25 - Chrome Browser Loaded
+2022-11-15 12:31:30 INFO  SauceDemoLoginTest:50 - Text is Present
+2022-11-15 12:35:44 INFO  SelectWebDriver:25 - Chrome Browser Loaded
+2022-11-15 12:35:47 INFO  SauceDemoLoginTest:50 - Text is Present
+2022-11-15 12:56:32 INFO  SelectWebDriver:25 - Chrome Browser Loaded
+2022-11-15 13:07:01 INFO  SelectWebDriver:25 - Chrome Browser Loaded
+2022-11-15 13:08:02 INFO  SelectWebDriver:25 - Chrome Browser Loaded
+2022-11-15 13:08:06 INFO  SauceDemoLoginTest:56 - Accepted usernames are: Text is Present
+2022-11-15 13:10:53 INFO  SelectWebDriver:25 - Chrome Browser Loaded
+2022-11-15 13:14:42 INFO  SelectWebDriver:25 - Chrome Browser Loaded
+2022-11-15 13:16:04 INFO  SelectWebDriver:25 - Chrome Browser Loaded
+2022-11-15 13:16:08 INFO  SauceDemoLoginTest:60 - Accepted usernames are: Text is Present
+2022-11-15 13:16:08 INFO  SauceDemoLoginTest:61 - Password for all users: Text is Present
+2022-11-15 13:19:37 INFO  SelectWebDriver:25 - Chrome Browser Loaded
+2022-11-15 13:21:24 INFO  SelectWebDriver:25 - Chrome Browser Loaded
+2022-11-15 13:30:42 INFO  SelectWebDriver:25 - Chrome Browser Loaded
+2022-11-15 13:31:29 INFO  SelectWebDriver:25 - Chrome Browser Loaded
+2022-11-15 13:32:53 INFO  SelectWebDriver:25 - Chrome Browser Loaded
+2022-11-15 13:34:45 INFO  SelectWebDriver:25 - Chrome Browser Loaded
+2022-11-15 13:35:42 INFO  SelectWebDriver:25 - Chrome Browser Loaded
+2022-11-15 13:41:24 INFO  SelectWebDriver:25 - Chrome Browser Loaded
+2022-11-15 13:43:46 INFO  SelectWebDriver:25 - Chrome Browser Loaded
+2022-11-15 13:44:44 INFO  SelectWebDriver:25 - Chrome Browser Loaded
+2022-11-15 13:48:05 INFO  SelectWebDriver:25 - Chrome Browser Loaded
+2022-11-15 13:50:41 INFO  SelectWebDriver:25 - Chrome Browser Loaded
+2022-11-15 13:50:45 INFO  SauceDemoLoginTest:64 - Accepted usernames are: Text is Present
+2022-11-15 13:50:45 INFO  SauceDemoLoginTest:66 - Password for all users: Text is Present
+2022-11-15 13:53:30 INFO  SelectWebDriver:25 - Chrome Browser Loaded
+2022-11-15 13:55:04 INFO  SelectWebDriver:25 - Chrome Browser Loaded
+2022-11-15 13:55:08 INFO  SauceDemoLoginTest:64 - Accepted usernames are: Text is Present
+2022-11-15 13:55:08 INFO  SauceDemoLoginTest:66 - Password for all users: Text is Present
+2022-11-15 14:44:46 INFO  SelectWebDriver:25 - Chrome Browser Loaded
+2022-11-15 14:44:51 INFO  SauceDemoLoginTest:66 - Accepted usernames are: Text is Present
+2022-11-15 14:44:51 INFO  SauceDemoLoginTest:68 - Password for all users: Text is Present
+2022-11-15 14:46:36 INFO  SelectWebDriver:25 - Chrome Browser Loaded
+2022-11-15 14:46:40 INFO  SauceDemoLoginTest:66 - Accepted usernames are: Text is Present
+2022-11-15 14:46:40 INFO  SauceDemoLoginTest:68 - Password for all users: Text is Present
+2022-11-15 14:52:42 INFO  SelectWebDriver:25 - Chrome Browser Loaded
+2022-11-15 14:52:46 INFO  SauceDemoLoginTest:75 - Accepted usernames are: Text is Present
+2022-11-15 14:52:46 INFO  SauceDemoLoginTest:77 - Password for all users: Text is Present
+2022-11-15 14:55:30 INFO  SelectWebDriver:25 - Chrome Browser Loaded
+2022-11-15 14:55:34 INFO  SauceDemoLoginTest:78 - Accepted usernames are: Text is Present
+2022-11-15 14:55:34 INFO  SauceDemoLoginTest:80 - Password for all users: Text is Present
+2022-11-15 14:56:13 INFO  SelectWebDriver:25 - Chrome Browser Loaded
+2022-11-15 14:56:17 INFO  SauceDemoLoginTest:74 - Accepted usernames are: Text is Present
+2022-11-15 14:56:17 INFO  SauceDemoLoginTest:76 - Password for all users: Text is Present
+2022-11-15 14:57:55 INFO  SelectWebDriver:25 - Chrome Browser Loaded
+2022-11-15 14:57:59 INFO  SauceDemoLoginTest:80 - Accepted usernames are: Text is Present
+2022-11-15 14:57:59 INFO  SauceDemoLoginTest:82 - Password for all users: Text is Present
+2022-11-15 15:25:36 INFO  SelectWebDriver:25 - Chrome Browser Loaded
+2022-11-15 15:25:40 INFO  SauceDemoLoginTest:84 - Accepted usernames are: Text is Present
+2022-11-15 15:25:40 INFO  SauceDemoLoginTest:86 - Password for all users: Text is Present
+2022-11-15 15:26:55 INFO  SelectWebDriver:25 - Chrome Browser Loaded
+2022-11-15 15:26:59 INFO  SauceDemoLoginTest:84 - Accepted usernames are: Text is Present
+2022-11-15 15:26:59 INFO  SauceDemoLoginTest:86 - Password for all users: Text is Present
+2022-11-15 15:39:07 INFO  SelectWebDriver:25 - Chrome Browser Loaded
+2022-11-15 15:39:12 INFO  SauceDemoLoginTest:84 - Accepted usernames are: Text is Present
+2022-11-15 15:39:12 INFO  SauceDemoLoginTest:86 - Password for all users: Text is Present
+2022-11-15 15:40:31 INFO  SelectWebDriver:25 - Chrome Browser Loaded
+2022-11-15 15:40:35 INFO  SauceDemoLoginTest:84 - Accepted usernames are: Text is Present
+2022-11-15 15:40:35 INFO  SauceDemoLoginTest:86 - Password for all users: Text is Present
+2022-11-15 15:49:41 INFO  SelectWebDriver:25 - Chrome Browser Loaded
+2022-11-15 15:49:46 INFO  SauceDemoLoginTest:72 - Accepted usernames are: Text is Present
+2022-11-15 15:49:46 INFO  SauceDemoLoginTest:74 - Password for all users: Text is Present
+2022-11-15 16:07:17 INFO  SelectWebDriver:25 - Chrome Browser Loaded
+2022-11-15 18:02:17 INFO  SelectWebDriver:25 - Chrome Browser Loaded
+2022-11-15 18:05:32 INFO  SelectWebDriver:25 - Chrome Browser Loaded
+2022-11-15 18:08:35 INFO  SelectWebDriver:25 - Chrome Browser Loaded
+2022-11-15 18:08:39 INFO  SauceDemoLoginTest:78 - Accepted usernames are: Text is Present
+2022-11-15 18:08:39 INFO  SauceDemoLoginTest:79 - standard_user Text is Present
+2022-11-15 18:08:39 INFO  SauceDemoLoginTest:80 - Password for all users: Text is Present
+2022-11-15 18:11:14 INFO  SelectWebDriver:25 - Chrome Browser Loaded
+2022-11-15 18:11:18 INFO  SauceDemoLoginTest:72 - Accepted usernames are: Text is Present
+2022-11-15 18:11:18 INFO  SauceDemoLoginTest:75 - standard_user Text is Present
+2022-11-15 18:11:18 INFO  SauceDemoLoginTest:78 - Password for all users: Text is Present
+2022-11-15 18:11:18 INFO  SauceDemoLoginTest:82 - Accepted usernames are: Text is Present
+2022-11-15 18:11:18 INFO  SauceDemoLoginTest:83 - standard_user Text is Present
+2022-11-15 18:11:18 INFO  SauceDemoLoginTest:84 - Password for all users: Text is Present
+2022-11-15 18:18:35 INFO  SelectWebDriver:25 - Chrome Browser Loaded
+2022-11-15 18:18:39 INFO  SauceDemoLoginTest:79 - Accepted usernames are: Text is Present
+2022-11-15 18:18:39 INFO  SauceDemoLoginTest:82 - standard_user Text is Present
+2022-11-15 18:18:39 INFO  SauceDemoLoginTest:85 - locked_out_user Text is Present
+2022-11-15 18:18:39 INFO  SauceDemoLoginTest:88 - problem_user Text is Present
+2022-11-15 18:18:39 INFO  SauceDemoLoginTest:91 - performance_glitch_user Text is Present
+2022-11-15 18:18:40 INFO  SauceDemoLoginTest:94 - Password for all users: Text is Present
+2022-11-15 18:23:12 INFO  SelectWebDriver:25 - Chrome Browser Loaded
+2022-11-15 18:23:44 INFO  SelectWebDriver:25 - Chrome Browser Loaded
+2022-11-15 18:23:48 INFO  SauceDemoLoginTest:77 - Accepted usernames are: Text is Present
+2022-11-15 18:23:48 INFO  SauceDemoLoginTest:80 - standard_user Text is Present
+2022-11-15 18:23:48 INFO  SauceDemoLoginTest:83 - locked_out_user Text is Present
+2022-11-15 18:23:48 INFO  SauceDemoLoginTest:86 - problem_user Text is Present
+2022-11-15 18:23:48 INFO  SauceDemoLoginTest:89 - performance_glitch_user Text is Present
+2022-11-15 18:23:48 INFO  SauceDemoLoginTest:92 - Password for all users: Text is Present
+2022-11-15 18:25:37 INFO  SelectWebDriver:25 - Chrome Browser Loaded
+2022-11-15 18:26:16 INFO  SelectWebDriver:25 - Chrome Browser Loaded
+2022-11-15 18:27:03 INFO  SelectWebDriver:25 - Chrome Browser Loaded
+2022-11-15 18:28:50 INFO  SelectWebDriver:25 - Chrome Browser Loaded
+2022-11-15 18:30:35 INFO  SelectWebDriver:25 - Chrome Browser Loaded
+2022-11-15 18:30:56 INFO  SelectWebDriver:25 - Chrome Browser Loaded
+2022-11-15 18:31:00 INFO  SauceDemoLoginTest:77 - Accepted usernames are: Text is Present
+2022-11-15 18:31:01 INFO  SauceDemoLoginTest:80 - standard_user Text is Present
+2022-11-15 18:31:01 INFO  SauceDemoLoginTest:83 - locked_out_user Text is Present
+2022-11-15 18:31:01 INFO  SauceDemoLoginTest:86 - problem_user Text is Present
+2022-11-15 18:31:01 INFO  SauceDemoLoginTest:89 - performance_glitch_user Text is Present
+2022-11-15 18:31:01 INFO  SauceDemoLoginTest:92 - Password for all users: Text is Present
+2022-11-15 18:34:07 INFO  SelectWebDriver:25 - Chrome Browser Loaded
+2022-11-15 18:38:35 INFO  SelectWebDriver:25 - Chrome Browser Loaded
+2022-11-15 18:38:39 INFO  SauceDemoLoginTest:77 - Accepted usernames are: Text is Present
+2022-11-15 18:38:39 INFO  SauceDemoLoginTest:80 - standard_user Text is Present
+2022-11-15 18:38:39 INFO  SauceDemoLoginTest:83 - locked_out_user Text is Present
+2022-11-15 18:38:39 INFO  SauceDemoLoginTest:86 - problem_user Text is Present
+2022-11-15 18:38:39 INFO  SauceDemoLoginTest:89 - performance_glitch_user Text is Present
+2022-11-15 18:38:39 INFO  SauceDemoLoginTest:92 - Password for all users: Text is Present
+2022-11-15 18:40:17 INFO  SelectWebDriver:25 - Chrome Browser Loaded
+2022-11-15 18:43:09 INFO  SelectWebDriver:25 - Chrome Browser Loaded
+2022-11-15 18:43:13 INFO  SauceDemoLoginTest:77 - Accepted usernames are: Text is Present
+2022-11-15 18:43:13 INFO  SauceDemoLoginTest:80 - standard_user Text is Present
+2022-11-15 18:43:13 INFO  SauceDemoLoginTest:83 - locked_out_user Text is Present
+2022-11-15 18:43:13 INFO  SauceDemoLoginTest:86 - problem_user Text is Present
+2022-11-15 18:43:13 INFO  SauceDemoLoginTest:89 - performance_glitch_user Text is Present
+2022-11-15 18:43:13 INFO  SauceDemoLoginTest:92 - Password for all users: Text is Present
+2022-11-15 18:51:23 INFO  SelectWebDriver:25 - Chrome Browser Loaded
+2022-11-15 18:51:27 INFO  SauceDemoLoginTest:77 - Accepted usernames are: Text is Present
+2022-11-15 18:51:27 INFO  SauceDemoLoginTest:80 - standard_user Text is Present
+2022-11-15 18:51:27 INFO  SauceDemoLoginTest:83 - locked_out_user Text is Present
+2022-11-15 18:51:27 INFO  SauceDemoLoginTest:86 - problem_user Text is Present
+2022-11-15 18:51:27 INFO  SauceDemoLoginTest:89 - performance_glitch_user Text is Present
+2022-11-15 18:51:27 INFO  SauceDemoLoginTest:92 - Password for all users: Text is Present
+2022-11-15 18:53:53 INFO  SelectWebDriver:25 - Chrome Browser Loaded
+2022-11-15 18:53:58 INFO  SauceDemoLoginTest:77 - Accepted usernames are: Text is Present
+2022-11-15 18:53:58 INFO  SauceDemoLoginTest:80 - standard_user Text is Present
+2022-11-15 18:53:58 INFO  SauceDemoLoginTest:83 - locked_out_user Text is Present
+2022-11-15 18:53:58 INFO  SauceDemoLoginTest:86 - problem_user Text is Present
+2022-11-15 18:53:58 INFO  SauceDemoLoginTest:89 - performance_glitch_user Text is Present
+2022-11-15 18:53:58 INFO  SauceDemoLoginTest:92 - Password for all users: Text is Present
+2022-11-15 18:58:37 INFO  SelectWebDriver:25 - Chrome Browser Loaded
+2022-11-15 18:58:41 INFO  SauceDemoLoginTest:77 - Accepted usernames are: Text is Present
+2022-11-15 18:58:41 INFO  SauceDemoLoginTest:80 - standard_user Text is Present
+2022-11-15 18:58:41 INFO  SauceDemoLoginTest:83 - locked_out_user Text is Present
+2022-11-15 18:58:41 INFO  SauceDemoLoginTest:86 - problem_user Text is Present
+2022-11-15 18:58:41 INFO  SauceDemoLoginTest:89 - performance_glitch_user Text is Present
+2022-11-15 18:58:41 INFO  SauceDemoLoginTest:92 - Password for all users: Text is Present
+2022-11-15 18:58:41 INFO  SauceDemoLoginTest:95 - secret_sauce Text is Present
+2022-11-15 19:02:58 INFO  SelectWebDriver:25 - Chrome Browser Loaded
+2022-11-15 19:03:06 INFO  SauceDemoLoginTest:76 - Accepted usernames are: Text is Present
+2022-11-15 19:03:06 INFO  SauceDemoLoginTest:79 - standard_user Text is Present
+2022-11-15 19:03:06 INFO  SauceDemoLoginTest:82 - locked_out_user Text is Present
+2022-11-15 19:03:06 INFO  SauceDemoLoginTest:85 - problem_user Text is Present
+2022-11-15 19:03:06 INFO  SauceDemoLoginTest:88 - performance_glitch_user Text is Present
+2022-11-15 19:04:20 INFO  SelectWebDriver:25 - Chrome Browser Loaded
+2022-11-15 19:04:24 INFO  SauceDemoLoginTest:76 - Accepted usernames are: Text is Present
+2022-11-15 19:04:24 INFO  SauceDemoLoginTest:79 - standard_user Text is Present
+2022-11-15 19:04:24 INFO  SauceDemoLoginTest:82 - locked_out_user Text is Present
+2022-11-15 19:04:24 INFO  SauceDemoLoginTest:85 - problem_user Text is Present
+2022-11-15 19:04:24 INFO  SauceDemoLoginTest:88 - performance_glitch_user Text is Present
+2022-11-15 19:04:24 INFO  SauceDemoLoginTest:91 - Password for all users: Text is Present
+2022-11-15 19:04:24 INFO  SauceDemoLoginTest:94 - secret_sauce Text is Present
+2022-11-15 19:06:34 INFO  SelectWebDriver:25 - Chrome Browser Loaded
+2022-11-15 19:06:39 INFO  SauceDemoLoginTest:76 - Accepted usernames are: Text is Present
+2022-11-15 19:06:39 INFO  SauceDemoLoginTest:79 - standard_user Text is Present
+2022-11-15 19:06:39 INFO  SauceDemoLoginTest:82 - locked_out_user Text is Present
+2022-11-15 19:06:39 INFO  SauceDemoLoginTest:85 - problem_user Text is Present
+2022-11-15 19:06:39 INFO  SauceDemoLoginTest:88 - performance_glitch_user Text is Present
+2022-11-15 19:06:39 INFO  SauceDemoLoginTest:91 - Password for all users: Text is Present
+2022-11-15 19:06:39 INFO  SauceDemoLoginTest:94 - secret_sauce Text is Present
+2022-11-15 19:11:14 INFO  SelectWebDriver:25 - Chrome Browser Loaded
+2022-11-15 19:11:18 INFO  SauceDemoLoginTest:60 - Accepted usernames are: Text is Present
+2022-11-15 19:11:18 INFO  SauceDemoLoginTest:64 - standard_user Text is Present
+2022-11-15 19:11:18 INFO  SauceDemoLoginTest:68 - locked_out_user Text is Present
+2022-11-15 19:11:18 INFO  SauceDemoLoginTest:72 - problem_user Text is Present
+2022-11-15 19:11:18 INFO  SauceDemoLoginTest:76 - performance_glitch_user Text is Present
+2022-11-15 19:11:18 INFO  SauceDemoLoginTest:80 - Password for all users: Text is Present
+2022-11-15 19:11:18 INFO  SauceDemoLoginTest:84 - secret_sauce Text is Present
+2022-11-15 19:11:18 INFO  CheckElement:22 - Element Username is Present 
+2022-11-15 19:11:18 INFO  CheckTextField:16 - Entered Username is: standard_user
+2022-11-15 19:11:18 INFO  CheckElement:22 - Element Password is Present 
+2022-11-15 19:11:18 INFO  CheckTextField:16 - Entered Password is: //div[@class='login_password']
+2022-11-15 19:11:18 INFO  CheckButtonElement:19 - Element Login Button is Enabled
+2022-11-15 19:11:18 INFO  CheckButtonAction:15 - Login Button is Clicked
+2022-11-15 19:12:37 INFO  SelectWebDriver:25 - Chrome Browser Loaded
+2022-11-15 19:12:41 INFO  SauceDemoLoginTest:60 - Accepted usernames are: Text is Present
+2022-11-15 19:12:41 INFO  SauceDemoLoginTest:64 - standard_user Text is Present
+2022-11-15 19:12:41 INFO  SauceDemoLoginTest:68 - locked_out_user Text is Present
+2022-11-15 19:12:41 INFO  SauceDemoLoginTest:72 - problem_user Text is Present
+2022-11-15 19:12:41 INFO  SauceDemoLoginTest:76 - performance_glitch_user Text is Present
+2022-11-15 19:12:41 INFO  SauceDemoLoginTest:80 - Password for all users: Text is Present
+2022-11-15 19:12:41 INFO  SauceDemoLoginTest:84 - secret_sauce Text is Present
+2022-11-15 19:12:41 INFO  CheckElement:22 - Element Username is Present 
+2022-11-15 19:12:42 INFO  CheckTextField:16 - Entered Username is: 
+2022-11-15 19:12:42 INFO  CheckElement:22 - Element Password is Present 
+2022-11-15 19:12:42 INFO  CheckTextField:16 - Entered Password is: 
+2022-11-15 19:12:42 INFO  CheckButtonElement:19 - Element Login Button is Enabled
+2022-11-15 19:12:42 INFO  CheckButtonAction:15 - Login Button is Clicked
+2022-11-15 19:13:26 INFO  SelectWebDriver:25 - Chrome Browser Loaded
+2022-11-15 19:13:30 INFO  SauceDemoLoginTest:60 - Accepted usernames are: Text is Present
+2022-11-15 19:13:30 INFO  SauceDemoLoginTest:64 - standard_user Text is Present
+2022-11-15 19:13:30 INFO  SauceDemoLoginTest:68 - locked_out_user Text is Present
+2022-11-15 19:13:30 INFO  SauceDemoLoginTest:72 - problem_user Text is Present
+2022-11-15 19:13:30 INFO  SauceDemoLoginTest:76 - performance_glitch_user Text is Present
+2022-11-15 19:13:30 INFO  SauceDemoLoginTest:80 - Password for all users: Text is Present
+2022-11-15 19:13:30 INFO  SauceDemoLoginTest:84 - secret_sauce Text is Present
+2022-11-15 19:13:30 INFO  CheckElement:22 - Element Username is Present 
+2022-11-15 19:13:30 INFO  CheckTextField:16 - Entered Username is: Username
+2022-11-15 19:13:30 INFO  CheckElement:22 - Element Password is Present 
+2022-11-15 19:13:30 INFO  CheckTextField:16 - Entered Password is: Password
+2022-11-15 19:13:30 INFO  CheckButtonElement:19 - Element Login Button is Enabled
+2022-11-15 19:13:30 INFO  CheckButtonAction:15 - Login Button is Clicked
+2022-11-15 19:18:03 INFO  SelectWebDriver:25 - Chrome Browser Loaded
+2022-11-15 19:18:07 INFO  CheckElement:22 - Element Username is Present 
+2022-11-15 19:18:08 INFO  CheckTextField:16 - Entered Username is: standard_user
+2022-11-15 19:18:08 INFO  CheckElement:22 - Element Password is Present 
+2022-11-15 19:18:08 INFO  CheckTextField:16 - Entered Password is: //div[@class='login_password']
+2022-11-15 19:18:08 INFO  CheckButtonElement:19 - Element Login Button is Enabled
+2022-11-15 19:18:08 INFO  CheckButtonAction:15 - Login Button is Clicked
+2022-11-15 19:22:18 INFO  SelectWebDriver:25 - Chrome Browser Loaded
+2022-11-15 19:22:22 INFO  CheckElement:22 - Element Username is Present 
+2022-11-15 19:22:22 INFO  CheckTextField:16 - Entered Username is: standard_user
+2022-11-15 19:22:22 INFO  CheckElement:22 - Element Password is Present 
+2022-11-15 19:22:22 INFO  CheckTextField:16 - Entered Password is: //div[@class='login_password']
+2022-11-15 19:22:22 INFO  CheckButtonElement:19 - Element Login Button is Enabled
+2022-11-15 19:22:22 INFO  CheckButtonAction:15 - Login Button is Clicked
+2022-11-15 19:24:07 INFO  SelectWebDriver:25 - Chrome Browser Loaded
+2022-11-15 19:24:11 INFO  CheckElement:22 - Element Username is Present 
+2022-11-15 19:24:11 INFO  CheckTextField:16 - Entered Username is: standard_user
+2022-11-15 19:24:11 INFO  CheckElement:22 - Element Password is Present 
+2022-11-15 19:24:11 INFO  CheckTextField:16 - Entered Password is: secret_sauce
+2022-11-15 19:24:11 INFO  CheckButtonElement:19 - Element Login Button is Enabled
+2022-11-15 19:24:11 INFO  CheckButtonAction:15 - Login Button is Clicked
+2022-11-15 19:26:15 INFO  SelectWebDriver:25 - Chrome Browser Loaded
+2022-11-15 19:26:19 INFO  SauceDemoLoginTest:60 - Accepted usernames are: Text is Present
+2022-11-15 19:26:19 INFO  SauceDemoLoginTest:64 - standard_user Text is Present
+2022-11-15 19:26:19 INFO  SauceDemoLoginTest:68 - locked_out_user Text is Present
+2022-11-15 19:26:19 INFO  SauceDemoLoginTest:72 - problem_user Text is Present
+2022-11-15 19:26:19 INFO  SauceDemoLoginTest:76 - performance_glitch_user Text is Present
+2022-11-15 19:26:19 INFO  SauceDemoLoginTest:80 - Password for all users: Text is Present
+2022-11-15 19:26:19 INFO  SauceDemoLoginTest:84 - secret_sauce Text is Present
+2022-11-15 19:26:19 INFO  CheckElement:22 - Element Username is Present 
+2022-11-15 19:26:19 INFO  CheckTextField:16 - Entered Username is: standard_user
+2022-11-15 19:26:19 INFO  CheckElement:22 - Element Password is Present 
+2022-11-15 19:26:19 INFO  CheckTextField:16 - Entered Password is: secret_sauce
+2022-11-15 19:26:19 INFO  CheckButtonElement:19 - Element Login Button is Enabled
+2022-11-15 19:26:19 INFO  CheckButtonAction:15 - Login Button is Clicked
+2022-11-15 23:24:41 INFO  SelectWebDriver:25 - Chrome Browser Loaded
+2022-11-15 23:24:47 INFO  SauceDemoLoginTest:67 - Accepted usernames are: Text is Present
+2022-11-15 23:24:47 INFO  SauceDemoLoginTest:71 - standard_user Text is Present
+2022-11-15 23:24:47 INFO  SauceDemoLoginTest:75 - locked_out_user Text is Present
+2022-11-15 23:24:47 INFO  SauceDemoLoginTest:79 - problem_user Text is Present
+2022-11-15 23:24:47 INFO  SauceDemoLoginTest:83 - performance_glitch_user Text is Present
+2022-11-15 23:24:47 INFO  SauceDemoLoginTest:87 - Password for all users: Text is Present
+2022-11-15 23:24:47 INFO  SauceDemoLoginTest:91 - secret_sauce Text is Present
+2022-11-15 23:24:47 INFO  CheckElement:22 - Element Username is Present 
+2022-11-15 23:24:47 INFO  CheckTextField:16 - Entered Username is: standard_user
+2022-11-15 23:24:47 INFO  CheckElement:22 - Element Password is Present 
+2022-11-15 23:24:47 INFO  CheckTextField:16 - Entered Password is: secret_sauce
+2022-11-15 23:24:47 INFO  CheckButtonElement:19 - Element Login Button is Enabled
+2022-11-15 23:24:47 INFO  CheckButtonAction:15 - Login Button is Clicked
+2022-11-15 23:26:05 INFO  SelectWebDriver:25 - Chrome Browser Loaded
+2022-11-15 23:26:09 INFO  SauceDemoLoginTest:62 - Accepted usernames are: Text is Present
+2022-11-15 23:26:09 INFO  SauceDemoLoginTest:67 - standard_user Text is Present
+2022-11-15 23:26:09 INFO  SauceDemoLoginTest:71 - locked_out_user Text is Present
+2022-11-15 23:26:09 INFO  SauceDemoLoginTest:75 - problem_user Text is Present
+2022-11-15 23:26:09 INFO  SauceDemoLoginTest:79 - performance_glitch_user Text is Present
+2022-11-15 23:26:09 INFO  SauceDemoLoginTest:83 - Password for all users: Text is Present
+2022-11-15 23:26:09 INFO  SauceDemoLoginTest:87 - secret_sauce Text is Present
+2022-11-15 23:26:10 INFO  CheckElement:22 - Element Username is Present 
+2022-11-15 23:26:10 INFO  CheckTextField:16 - Entered Username is: standard_user
+2022-11-15 23:26:10 INFO  CheckElement:22 - Element Password is Present 
+2022-11-15 23:26:10 INFO  CheckTextField:16 - Entered Password is: secret_sauce
+2022-11-15 23:26:10 INFO  CheckButtonElement:19 - Element Login Button is Enabled
+2022-11-15 23:26:10 INFO  CheckButtonAction:15 - Login Button is Clicked
+2022-11-15 23:33:48 INFO  SelectWebDriver:25 - Chrome Browser Loaded
+2022-11-15 23:33:52 INFO  SauceDemoLoginTest:63 - Accepted usernames are: Text is Present
+2022-11-15 23:33:52 INFO  SauceDemoLoginTest:67 - standard_user Text is Present
+2022-11-15 23:33:52 INFO  SauceDemoLoginTest:71 - locked_out_user Text is Present
+2022-11-15 23:33:52 INFO  SauceDemoLoginTest:75 - problem_user Text is Present
+2022-11-15 23:33:52 INFO  SauceDemoLoginTest:79 - performance_glitch_user Text is Present
+2022-11-15 23:33:52 INFO  CheckElement:22 - Element Username is Present 
+2022-11-15 23:33:52 INFO  CheckTextField:16 - Entered Username is: standard_user
+2022-11-15 23:33:52 INFO  CheckElement:22 - Element Password is Present 
+2022-11-15 23:33:52 INFO  CheckTextField:16 - Entered Password is: secret_sauce
+2022-11-15 23:33:52 INFO  CheckButtonElement:19 - Element Login Button is Enabled
+2022-11-15 23:33:52 INFO  CheckButtonAction:15 - Login Button is Clicked
+2022-11-15 23:34:51 INFO  SelectWebDriver:25 - Chrome Browser Loaded
+2022-11-15 23:34:55 INFO  SauceDemoLoginTest:63 - Accepted usernames are: Text is Present
+2022-11-15 23:34:55 INFO  SauceDemoLoginTest:67 - standard_user Text is Present
+2022-11-15 23:34:55 INFO  SauceDemoLoginTest:71 - locked_out_user Text is Present
+2022-11-15 23:34:55 INFO  SauceDemoLoginTest:75 - problem_user Text is Present
+2022-11-15 23:34:55 INFO  SauceDemoLoginTest:79 - performance_glitch_user Text is Present
+2022-11-15 23:34:55 INFO  SauceDemoLoginTest:83 - Password for all users: Text is Present
+2022-11-15 23:34:55 INFO  SauceDemoLoginTest:87 - secret_sauce Text is Present
+2022-11-15 23:34:55 INFO  CheckElement:22 - Element Username is Present 
+2022-11-15 23:34:55 INFO  CheckTextField:16 - Entered Username is: standard_user
+2022-11-15 23:34:55 INFO  CheckElement:22 - Element Password is Present 
+2022-11-15 23:34:55 INFO  CheckTextField:16 - Entered Password is: secret_sauce
+2022-11-15 23:34:55 INFO  CheckButtonElement:19 - Element Login Button is Enabled
+2022-11-15 23:34:55 INFO  CheckButtonAction:15 - Login Button is Clicked
+2022-11-15 23:37:58 INFO  SelectWebDriver:25 - Chrome Browser Loaded
+2022-11-15 23:38:02 INFO  SauceDemoLoginTest:62 - Accepted usernames are: Text is Present
+2022-11-15 23:38:02 INFO  SauceDemoLoginTest:65 - standard_user Text is Present
+2022-11-15 23:38:02 INFO  SauceDemoLoginTest:68 - locked_out_user Text is Present
+2022-11-15 23:38:02 INFO  SauceDemoLoginTest:71 - problem_user Text is Present
+2022-11-15 23:38:02 INFO  SauceDemoLoginTest:74 - performance_glitch_user Text is Present
+2022-11-15 23:38:02 INFO  SauceDemoLoginTest:77 - Password for all users: Text is Present
+2022-11-15 23:38:02 INFO  SauceDemoLoginTest:80 - secret_sauce Text is Present
+2022-11-15 23:38:03 INFO  CheckElement:22 - Element Username is Present 
+2022-11-15 23:38:03 INFO  CheckTextField:16 - Entered Username is: standard_user
+2022-11-15 23:38:03 INFO  CheckElement:22 - Element Password is Present 
+2022-11-15 23:38:03 INFO  CheckTextField:16 - Entered Password is: secret_sauce
+2022-11-15 23:38:03 INFO  CheckButtonElement:19 - Element Login Button is Enabled
+2022-11-15 23:38:03 INFO  CheckButtonAction:15 - Login Button is Clicked
+2022-11-15 23:47:54 INFO  SelectWebDriver:25 - Chrome Browser Loaded
+2022-11-15 23:47:58 INFO  SauceDemoLoginTest:62 - Accepted usernames are: Text is Present
+2022-11-15 23:47:58 INFO  SauceDemoLoginTest:65 - standard_user Text is Present
+2022-11-15 23:47:58 INFO  SauceDemoLoginTest:68 - locked_out_user Text is Present
+2022-11-15 23:47:58 INFO  SauceDemoLoginTest:71 - problem_user Text is Present
+2022-11-15 23:47:58 INFO  SauceDemoLoginTest:74 - performance_glitch_user Text is Present
+2022-11-15 23:47:58 INFO  SauceDemoLoginTest:77 - Password for all users: Text is Present
+2022-11-15 23:47:58 INFO  SauceDemoLoginTest:80 - secret_sauce Text is Present
+2022-11-15 23:47:58 INFO  CheckElement:22 - Element Username is Present 
+2022-11-15 23:47:58 INFO  CheckTextField:16 - Entered Username is: standard_user
+2022-11-15 23:47:58 INFO  CheckElement:22 - Element Password is Present 
+2022-11-15 23:47:58 INFO  CheckTextField:16 - Entered Password is: secret_sauce
+2022-11-15 23:47:58 INFO  CheckButtonElement:19 - Element Login Button is Enabled
+2022-11-15 23:47:58 INFO  CheckButtonAction:15 - Login Button is Clicked

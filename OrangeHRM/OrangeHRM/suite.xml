@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite" thread-count="1">
+	<suite-files>
+		<suite-file path="D:\FinalProject\OrangeHRM\src\test\resources\suitefiles\login.xml"></suite-file>
+<!--<suite-file path="D:\FinalProject\OrangeHRM\src\test\resources\suitefiles\Recruitment.xml"></suite-file>-->
+		<!--<suite-file path="D:\FinalProject\OrangeHRM\src\test\resources\suitefiles\Vacancy.xml"></suite-file>-->
+	</suite-files> <!-- Test -->
+</suite> <!-- Suite -->

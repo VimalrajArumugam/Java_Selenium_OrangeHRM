@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite thread-count="1" name="Failed suite [OrangeHRM]" guice-stage="DEVELOPMENT">
+  <test thread-count="1" name="OrangeHRM chrome report(failed)">
+    <parameter name="browserName" value="chrome"/>
+    <parameter name="testCase" value="TC01"/>
+    <classes>
+      <class name="org.qa.orangehrm.testscripts.LoginTest">
+        <methods>
+          <include name="browserLaunch"/>
+          <include name="validCredentials"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- org.qa.orangehrm.testscripts.LoginTest -->
+    </classes>
+  </test> <!-- OrangeHRM chrome report(failed) -->
+</suite> <!-- Failed suite [OrangeHRM] -->
