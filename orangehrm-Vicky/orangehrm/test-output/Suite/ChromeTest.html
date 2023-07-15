@@ -1,0 +1,180 @@
+<html>
+<head>
+<title>TestNG:  ChromeTest</title>
+<link href="../testng.css" rel="stylesheet" type="text/css" />
+<link href="../my-testng.css" rel="stylesheet" type="text/css" />
+
+<style type="text/css">
+.log { display: none;} 
+.stack-trace { display: none;} 
+</style>
+<script type="text/javascript">
+<!--
+function flip(e) {
+  current = e.style.display;
+  if (current == 'block') {
+    e.style.display = 'none';
+    return 0;
+  }
+  else {
+    e.style.display = 'block';
+    return 1;
+  }
+}
+
+function toggleBox(szDivId, elem, msg1, msg2)
+{
+  var res = -1;  if (document.getElementById) {
+    res = flip(document.getElementById(szDivId));
+  }
+  else if (document.all) {
+    // this is the way old msie versions work
+    res = flip(document.all[szDivId]);
+  }
+  if(elem) {
+    if(res == 0) elem.innerHTML = msg1; else elem.innerHTML = msg2;
+  }
+
+}
+
+function toggleAllBoxes() {
+  if (document.getElementsByTagName) {
+    d = document.getElementsByTagName('div');
+    for (i = 0; i < d.length; i++) {
+      if (d[i].className == 'log') {
+        flip(d[i]);
+      }
+    }
+  }
+}
+
+// -->
+</script>
+
+</head>
+<body>
+<h2 align='center'>ChromeTest</h2><table border='1' align="center">
+<tr>
+<td>Tests passed/Failed/Skipped:</td><td>20/0/0</td>
+</tr><tr>
+<td>Started on:</td><td>Mon Feb 06 14:59:13 IST 2023</td>
+</tr>
+<tr><td>Total time:</td><td>432 seconds (432756 ms)</td>
+</tr><tr>
+<td>Included groups:</td><td></td>
+</tr><tr>
+<td>Excluded groups:</td><td></td>
+</tr>
+</table><p/>
+<small><i>(Hover the method name to see the test class name)</i></small><p/>
+<table width='100%' border='1' class='invocation-passed'>
+<tr><td colspan='4' align='center'><b>PASSED TESTS</b></td></tr>
+<tr><td><b>Test method</b></td>
+<td><b>Attribute(s)</b></td>
+<td width="30%"><b>Exception</b></td>
+<td width="10%"><b>Time (seconds)</b></td>
+<td><b>Instance</b></td>
+</tr>
+<tr>
+<td title='org.atmecs.orangehrm.testscripts.PIMPage.verifyEmployee_PIM()'><b>verifyEmployee_PIM</b><br>Test class: org.atmecs.orangehrm.testscripts.PIMPage<br>Test method: This method is used to verify whether the added employee is displayed</td>
+<td></td>
+<td>31</td>
+<td>org.atmecs.orangehrm.testscripts.PIMPage@45792847</td></tr>
+<tr>
+<td title='org.atmecs.orangehrm.testscripts.AdminPage.login()'><b>login</b><br>Test class: org.atmecs.orangehrm.testscripts.AdminPage<br>Test method: This method is to login to the website</td>
+<td></td>
+<td>0</td>
+<td>org.atmecs.orangehrm.testscripts.AdminPage@51dbd6e4</td></tr>
+<tr>
+<td title='org.atmecs.orangehrm.testscripts.AdminPage.addStatus_Admin_Job()'><b>addStatus_Admin_Job</b><br>Test class: org.atmecs.orangehrm.testscripts.AdminPage<br>Test method: This method is used to add employment status in the field</td>
+<td></td>
+<td>13</td>
+<td>org.atmecs.orangehrm.testscripts.AdminPage@51dbd6e4</td></tr>
+<tr>
+<td title='org.atmecs.orangehrm.testscripts.PIMPage.login()'><b>login</b><br>Test class: org.atmecs.orangehrm.testscripts.PIMPage<br>Test method: This method is to login to the website</td>
+<td></td>
+<td>0</td>
+<td>org.atmecs.orangehrm.testscripts.PIMPage@45792847</td></tr>
+<tr>
+<td title='org.atmecs.orangehrm.testscripts.AdminPage.searchUser_Admin_User()'><b>searchUser_Admin_User</b><br>Test class: org.atmecs.orangehrm.testscripts.AdminPage<br>Test method: This method is used to search the user in the entries</td>
+<td></td>
+<td>13</td>
+<td>org.atmecs.orangehrm.testscripts.AdminPage@51dbd6e4</td></tr>
+<tr>
+<td title='org.atmecs.orangehrm.testscripts.AdminPage.editStatus_Admin_Job()'><b>editStatus_Admin_Job</b><br>Test class: org.atmecs.orangehrm.testscripts.AdminPage<br>Test method: This method is used to edit the employment status in the entries</td>
+<td></td>
+<td>12</td>
+<td>org.atmecs.orangehrm.testscripts.AdminPage@51dbd6e4</td></tr>
+<tr>
+<td title='org.atmecs.orangehrm.testscripts.LoginPage.emptyCredentials()'><b>emptyCredentials</b><br>Test class: org.atmecs.orangehrm.testscripts.LoginPage<br>Test method: This method is used to validate login functionality with empty credentials</td>
+<td></td>
+<td>5</td>
+<td>org.atmecs.orangehrm.testscripts.LoginPage@31ddd4a4</td></tr>
+<tr>
+<td title='org.atmecs.orangehrm.testscripts.AdminPage.searchLocation_Admin_Location()'><b>searchLocation_Admin_Location</b><br>Test class: org.atmecs.orangehrm.testscripts.AdminPage<br>Test method: This method is used to search the location in the entries</td>
+<td></td>
+<td>17</td>
+<td>org.atmecs.orangehrm.testscripts.AdminPage@51dbd6e4</td></tr>
+<tr>
+<td title='org.atmecs.orangehrm.testscripts.DirectoryPage.directory_EmployeeName()'><b>directory_EmployeeName</b><br>Test class: org.atmecs.orangehrm.testscripts.DirectoryPage<br>Test method: This method is to add new employee to the existing entries</td>
+<td></td>
+<td>13</td>
+<td>org.atmecs.orangehrm.testscripts.DirectoryPage@2b8d084</td></tr>
+<tr>
+<td title='org.atmecs.orangehrm.testscripts.AdminPage.addShift_Admin_Job()'><b>addShift_Admin_Job</b><br>Test class: org.atmecs.orangehrm.testscripts.AdminPage<br>Test method: This method is used to add new work shift in the entries</td>
+<td></td>
+<td>31</td>
+<td>org.atmecs.orangehrm.testscripts.AdminPage@51dbd6e4</td></tr>
+<tr>
+<td title='org.atmecs.orangehrm.testscripts.AdminPage.addLocation_Admin_Location()'><b>addLocation_Admin_Location</b><br>Test class: org.atmecs.orangehrm.testscripts.AdminPage<br>Test method: This method is used to add new location to the entries</td>
+<td></td>
+<td>88</td>
+<td>org.atmecs.orangehrm.testscripts.AdminPage@51dbd6e4</td></tr>
+<tr>
+<td title='org.atmecs.orangehrm.testscripts.AdminPage.deleteShift_Admin_Job()'><b>deleteShift_Admin_Job</b><br>Test class: org.atmecs.orangehrm.testscripts.AdminPage<br>Test method: This method is used to delete the work shift in the entries</td>
+<td></td>
+<td>6</td>
+<td>org.atmecs.orangehrm.testscripts.AdminPage@51dbd6e4</td></tr>
+<tr>
+<td title='org.atmecs.orangehrm.testscripts.AdminPage.deleteStatus_Admin_Job()'><b>deleteStatus_Admin_Job</b><br>Test class: org.atmecs.orangehrm.testscripts.AdminPage<br>Test method: This method is used to delete the employment status in the entries</td>
+<td></td>
+<td>6</td>
+<td>org.atmecs.orangehrm.testscripts.AdminPage@51dbd6e4</td></tr>
+<tr>
+<td title='org.atmecs.orangehrm.testscripts.LoginPage.validCredentials()'><b>validCredentials</b><br>Test class: org.atmecs.orangehrm.testscripts.LoginPage<br>Test method: This method is used to validate login functionality with valid credentials</td>
+<td></td>
+<td>5</td>
+<td>org.atmecs.orangehrm.testscripts.LoginPage@31ddd4a4</td></tr>
+<tr>
+<td title='org.atmecs.orangehrm.testscripts.DirectoryPage.directory_JobTitle()'><b>directory_JobTitle</b><br>Test class: org.atmecs.orangehrm.testscripts.DirectoryPage<br>Test method: This method is to search employee using designation in the existing entries</td>
+<td></td>
+<td>54</td>
+<td>org.atmecs.orangehrm.testscripts.DirectoryPage@2b8d084</td></tr>
+<tr>
+<td title='org.atmecs.orangehrm.testscripts.PIMPage.addEmployee_PIM()'><b>addEmployee_PIM</b><br>Test class: org.atmecs.orangehrm.testscripts.PIMPage<br>Test method: This method is used to add a new employee in pim</td>
+<td></td>
+<td>87</td>
+<td>org.atmecs.orangehrm.testscripts.PIMPage@45792847</td></tr>
+<tr>
+<td title='org.atmecs.orangehrm.testscripts.DirectoryPage.directory_Location()'><b>directory_Location</b><br>Test class: org.atmecs.orangehrm.testscripts.DirectoryPage<br>Test method: This method is to search employee using Location in the existing entries</td>
+<td></td>
+<td>12</td>
+<td>org.atmecs.orangehrm.testscripts.DirectoryPage@2b8d084</td></tr>
+<tr>
+<td title='org.atmecs.orangehrm.testscripts.LoginPage.invalidCredentials()'><b>invalidCredentials</b><br>Test class: org.atmecs.orangehrm.testscripts.LoginPage<br>Test method: This method is used to validate login functionality with invalid credentials</td>
+<td></td>
+<td>10</td>
+<td>org.atmecs.orangehrm.testscripts.LoginPage@31ddd4a4</td></tr>
+<tr>
+<td title='org.atmecs.orangehrm.testscripts.DirectoryPage.login()'><b>login</b><br>Test class: org.atmecs.orangehrm.testscripts.DirectoryPage<br>Test method: This method is to login to the website</td>
+<td></td>
+<td>0</td>
+<td>org.atmecs.orangehrm.testscripts.DirectoryPage@2b8d084</td></tr>
+<tr>
+<td title='org.atmecs.orangehrm.testscripts.AdminPage.deleteUser_Admin_User()'><b>deleteUser_Admin_User</b><br>Test class: org.atmecs.orangehrm.testscripts.AdminPage<br>Test method: This method is used to delete the user in the entries</td>
+<td></td>
+<td>13</td>
+<td>org.atmecs.orangehrm.testscripts.AdminPage@51dbd6e4</td></tr>
+</table><p>
+</body>
+</html>

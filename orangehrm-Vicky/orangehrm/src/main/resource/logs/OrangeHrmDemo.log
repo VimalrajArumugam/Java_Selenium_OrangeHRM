@@ -1,0 +1,76 @@
+2023-02-06 14:59:29,467 - org.atmecs.orangehrm.actions.LoginPageActions:64 -INFO - Error Message :Invalid credentials
+2023-02-06 14:59:34,990 - org.atmecs.orangehrm.actions.LoginPageActions:87 -INFO - Error Message :Required
+2023-02-06 14:59:40,647 - org.atmecs.orangehrm.actions.LoginPageActions:40 -INFO - Successful Login
+2023-02-06 14:59:40,648 - org.atmecs.orangehrm.actions.LoginPageActions:41 -INFO - Page Title : OrangeHRM
+2023-02-06 14:59:40,690 - org.atmecs.orangehrm.testscripts.DirectoryPage:36 -INFO - Navigated to home page
+2023-02-06 14:59:41,375 - org.atmecs.orangehrm.actions.DirectoryTabActions:34 -INFO - Directory Tab is clicked in homepage
+2023-02-06 14:59:41,979 - org.atmecs.orangehrm.actions.DirectoryTabActions:56 -INFO - Employee field is clicked on Directory tab
+2023-02-06 14:59:46,151 - org.atmecs.orangehrm.actions.DirectoryTabActions:84 -INFO - Clicked search button
+2023-02-06 14:59:50,186 - org.atmecs.orangehrm.actions.DirectoryTabActions:99 -INFO - Expected Employee name: 'Odis Adalwin' matches with the  Actual Employee name: 'Odis Adalwin'
+2023-02-06 14:59:54,256 - org.atmecs.orangehrm.actions.DirectoryTabActions:113 -INFO - Clicked Reset button
+2023-02-06 14:59:56,414 - org.atmecs.orangehrm.actions.DirectoryTabActions:129 -INFO - Job Title is selected in field
+2023-02-06 15:00:00,466 - org.atmecs.orangehrm.actions.DirectoryTabActions:84 -INFO - Clicked search button
+2023-02-06 15:00:24,799 - org.atmecs.orangehrm.reusables.HelperClass:433 -INFO - Element is not visible
+2023-02-06 15:00:24,810 - org.atmecs.orangehrm.reusables.HelperClass:346 -INFO - Get text is not performed
+2023-02-06 15:00:24,810 - org.atmecs.orangehrm.actions.DirectoryTabActions:209 -INFO - 
+2023-02-06 15:00:45,048 - org.atmecs.orangehrm.reusables.HelperClass:433 -INFO - Element is not visible
+2023-02-06 15:00:45,060 - org.atmecs.orangehrm.reusables.HelperClass:346 -INFO - Get text is not performed
+2023-02-06 15:00:45,060 - org.atmecs.orangehrm.actions.DirectoryTabActions:212 -INFO - 
+2023-02-06 15:00:49,123 - org.atmecs.orangehrm.actions.DirectoryTabActions:113 -INFO - Clicked Reset button
+2023-02-06 15:00:49,342 - org.atmecs.orangehrm.actions.DirectoryTabActions:171 -INFO - Location is selected in the Directory Tab
+2023-02-06 15:00:53,392 - org.atmecs.orangehrm.actions.DirectoryTabActions:84 -INFO - Clicked search button
+2023-02-06 15:01:01,489 - org.atmecs.orangehrm.testscripts.PIMPage:36 -INFO - Navigated to home page
+2023-02-06 15:01:02,651 - org.atmecs.orangehrm.actions.PIMTabActions:32 -INFO - Clicked PIM Tab
+2023-02-06 15:01:11,524 - org.atmecs.orangehrm.actions.PIMTabActions:45 -INFO - Clicked Add Button in PIM Tab
+2023-02-06 15:01:24,383 - org.atmecs.orangehrm.actions.PIMTabActions:67 -INFO - Clicked Save Button in PIM Tab
+2023-02-06 15:01:25,480 - org.atmecs.orangehrm.actions.PIMTabActions:105 -INFO - Success
+2023-02-06 15:01:25,536 - org.atmecs.orangehrm.actions.PIMTabActions:108 -INFO - Successfully Saved
+2023-02-06 15:01:39,080 - org.atmecs.orangehrm.actions.PIMTabActions:45 -INFO - Clicked Add Button in PIM Tab
+2023-02-06 15:01:51,893 - org.atmecs.orangehrm.actions.PIMTabActions:67 -INFO - Clicked Save Button in PIM Tab
+2023-02-06 15:01:52,981 - org.atmecs.orangehrm.actions.PIMTabActions:105 -INFO - Success
+2023-02-06 15:01:53,034 - org.atmecs.orangehrm.actions.PIMTabActions:108 -INFO - Successfully Saved
+2023-02-06 15:02:06,664 - org.atmecs.orangehrm.actions.PIMTabActions:45 -INFO - Clicked Add Button in PIM Tab
+2023-02-06 15:02:19,490 - org.atmecs.orangehrm.actions.PIMTabActions:67 -INFO - Clicked Save Button in PIM Tab
+2023-02-06 15:02:20,581 - org.atmecs.orangehrm.actions.PIMTabActions:105 -INFO - Success
+2023-02-06 15:02:20,630 - org.atmecs.orangehrm.actions.PIMTabActions:108 -INFO - Successfully Saved
+2023-02-06 15:02:29,193 - org.atmecs.orangehrm.actions.PIMTabActions:93 -INFO - Employee Detail is successfully added
+2023-02-06 15:03:00,427 - org.atmecs.orangehrm.actions.PIMTabActions:144 -INFO - Employee Names are found in the Entries
+2023-02-06 15:03:00,458 - org.atmecs.orangehrm.testscripts.AdminPage:36 -INFO - Navigated to home page
+2023-02-06 15:03:01,752 - org.atmecs.orangehrm.actions.AdminTabActions:28 -INFO - Admin Tab is clicked
+2023-02-06 15:03:14,332 - org.atmecs.orangehrm.actions.AdminTabActions:81 -INFO - Admin Tab : 'Admin' Employee name found in search criteria
+2023-02-06 15:03:15,036 - org.atmecs.orangehrm.actions.AdminTabActions:111 -INFO - User is selected in the found entries of Admin Tab
+2023-02-06 15:03:19,143 - org.atmecs.orangehrm.actions.AdminTabActions:114 -INFO - Delete icon is clicked in Admin_User Tab entries
+2023-02-06 15:03:20,353 - org.atmecs.orangehrm.actions.AdminTabActions:97 -INFO - Success
+2023-02-06 15:03:20,454 - org.atmecs.orangehrm.actions.AdminTabActions:100 -INFO - Successfully Deleted
+2023-02-06 15:03:20,455 - org.atmecs.orangehrm.actions.AdminTabActions:117 -INFO - Selected User is deleted by delete icon
+2023-02-06 15:03:27,014 - org.atmecs.orangehrm.actions.AdminTabActions:132 -INFO - User entry is selected for deletion
+2023-02-06 15:03:28,257 - org.atmecs.orangehrm.actions.AdminTabActions:97 -INFO - Success
+2023-02-06 15:03:28,345 - org.atmecs.orangehrm.actions.AdminTabActions:100 -INFO - Successfully Deleted
+2023-02-06 15:03:28,346 - org.atmecs.orangehrm.actions.AdminTabActions:135 -INFO - User entry is deleted by checkBox
+2023-02-06 15:03:42,241 - org.atmecs.orangehrm.actions.AdminTabActions:178 -ERROR - Employement status cannot be added to the field
+2023-02-06 15:03:54,407 - org.atmecs.orangehrm.actions.AdminTabActions:97 -INFO - Success
+2023-02-06 15:03:54,449 - org.atmecs.orangehrm.actions.AdminTabActions:100 -INFO - Successfully Updated
+2023-02-06 15:03:54,450 - org.atmecs.orangehrm.actions.AdminTabActions:206 -INFO - Freelanceis edited into Intern
+2023-02-06 15:04:00,736 - org.atmecs.orangehrm.actions.AdminTabActions:97 -INFO - Success
+2023-02-06 15:04:00,777 - org.atmecs.orangehrm.actions.AdminTabActions:100 -INFO - Successfully Deleted
+2023-02-06 15:04:00,777 - org.atmecs.orangehrm.actions.AdminTabActions:226 -INFO - Employment status is deleted
+2023-02-06 15:04:00,880 - org.atmecs.orangehrm.actions.AdminTabActions:242 -INFO - Job tab is clicked on Admin tab 
+2023-02-06 15:04:01,378 - org.atmecs.orangehrm.actions.AdminTabActions:244 -INFO - Workshift dropdown is clicked on Job tab
+2023-02-06 15:04:06,224 - org.atmecs.orangehrm.actions.AdminTabActions:249 -INFO - Add Button is clicked on Job tab
+2023-02-06 15:04:06,828 - org.atmecs.orangehrm.actions.AdminTabActions:252 -INFO - Shift name is entered in the field
+2023-02-06 15:04:28,346 - org.atmecs.orangehrm.actions.AdminTabActions:97 -INFO - Success
+2023-02-06 15:04:28,396 - org.atmecs.orangehrm.actions.AdminTabActions:100 -INFO - Successfully Saved
+2023-02-06 15:04:32,432 - org.atmecs.orangehrm.actions.AdminTabActions:271 -INFO - Work Shift is added in Entry
+2023-02-06 15:04:32,499 - org.atmecs.orangehrm.actions.AdminTabActions:286 -INFO - Job tab is clicked on Admin tab
+2023-02-06 15:04:32,973 - org.atmecs.orangehrm.actions.AdminTabActions:288 -INFO - Workshift dropdown is clicked on Job tab 
+2023-02-06 15:04:39,222 - org.atmecs.orangehrm.actions.AdminTabActions:97 -INFO - Success
+2023-02-06 15:04:39,272 - org.atmecs.orangehrm.actions.AdminTabActions:100 -INFO - Successfully Deleted
+2023-02-06 15:04:39,273 - org.atmecs.orangehrm.actions.AdminTabActions:294 -INFO - Work Shift deleted from Entry
+2023-02-06 15:05:11,291 - org.atmecs.orangehrm.actions.AdminTabActions:97 -INFO - Success
+2023-02-06 15:05:11,345 - org.atmecs.orangehrm.actions.AdminTabActions:100 -INFO - Successfully Saved
+2023-02-06 15:05:37,654 - org.atmecs.orangehrm.actions.AdminTabActions:97 -INFO - Success
+2023-02-06 15:05:37,713 - org.atmecs.orangehrm.actions.AdminTabActions:100 -INFO - Successfully Saved
+2023-02-06 15:06:03,973 - org.atmecs.orangehrm.actions.AdminTabActions:97 -INFO - Success
+2023-02-06 15:06:04,014 - org.atmecs.orangehrm.actions.AdminTabActions:100 -INFO - Successfully Saved
+2023-02-06 15:06:08,039 - org.atmecs.orangehrm.actions.AdminTabActions:334 -INFO - Location status added in Entry
+2023-02-06 15:06:25,599 - org.atmecs.orangehrm.actions.AdminTabActions:375 -INFO - Country found in search criteria

@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="6" total="26" passed="20" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-02-06T14:59:13 IST" name="Suite" finished-at="2023-02-06T15:06:26 IST" duration-ms="432756">
+    <groups>
+    </groups>
+    <test started-at="2023-02-06T14:59:13 IST" name="ChromeTest" finished-at="2023-02-06T15:06:26 IST" duration-ms="432756">
+      <class name="org.atmecs.orangehrm.testscripts.PIMPage">
+        <test-method signature="login()[pri:1, instance:org.atmecs.orangehrm.testscripts.PIMPage@45792847]" started-at="2023-02-06T15:01:01 IST" name="login" description="This method is to login to the website" finished-at="2023-02-06T15:01:01 IST" duration-ms="25" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="addEmployee_PIM()[pri:2, instance:org.atmecs.orangehrm.testscripts.PIMPage@45792847]" started-at="2023-02-06T15:01:01 IST" name="addEmployee_PIM" description="This method is used to add a new employee in pim" finished-at="2023-02-06T15:02:29 IST" duration-ms="87702" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addEmployee_PIM -->
+        <test-method signature="verifyEmployee_PIM()[pri:3, instance:org.atmecs.orangehrm.testscripts.PIMPage@45792847]" started-at="2023-02-06T15:02:29 IST" name="verifyEmployee_PIM" description="This method is used to verify whether the added employee is displayed" finished-at="2023-02-06T15:03:00 IST" duration-ms="31233" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyEmployee_PIM -->
+      </class> <!-- org.atmecs.orangehrm.testscripts.PIMPage -->
+      <class name="org.atmecs.orangehrm.testscripts.LoginPage">
+        <test-method is-config="true" signature="selectBrowser(java.lang.String)[pri:0, instance:org.atmecs.orangehrm.testscripts.LoginPage@31ddd4a4]" started-at="2023-02-06T14:59:13 IST" name="selectBrowser" finished-at="2023-02-06T14:59:19 IST" duration-ms="6009" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selectBrowser -->
+        <test-method signature="invalidCredentials()[pri:1, instance:org.atmecs.orangehrm.testscripts.LoginPage@31ddd4a4]" started-at="2023-02-06T14:59:19 IST" name="invalidCredentials" description="This method is used to validate login functionality with invalid credentials" finished-at="2023-02-06T14:59:29 IST" duration-ms="10089" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invalidCredentials -->
+        <test-method signature="emptyCredentials()[pri:2, instance:org.atmecs.orangehrm.testscripts.LoginPage@31ddd4a4]" started-at="2023-02-06T14:59:29 IST" name="emptyCredentials" description="This method is used to validate login functionality with empty credentials" finished-at="2023-02-06T14:59:34 IST" duration-ms="5509" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- emptyCredentials -->
+        <test-method signature="validCredentials()[pri:3, instance:org.atmecs.orangehrm.testscripts.LoginPage@31ddd4a4]" started-at="2023-02-06T14:59:34 IST" name="validCredentials" description="This method is used to validate login functionality with valid credentials" finished-at="2023-02-06T14:59:40 IST" duration-ms="5654" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validCredentials -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:org.atmecs.orangehrm.testscripts.LoginPage@31ddd4a4]" started-at="2023-02-06T15:06:25 IST" name="closeBrowser" finished-at="2023-02-06T15:06:26 IST" duration-ms="505" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- org.atmecs.orangehrm.testscripts.LoginPage -->
+      <class name="org.atmecs.orangehrm.testscripts.DirectoryPage">
+        <test-method signature="login()[pri:1, instance:org.atmecs.orangehrm.testscripts.DirectoryPage@2b8d084]" started-at="2023-02-06T14:59:40 IST" name="login" description="This method is to login to the website" finished-at="2023-02-06T14:59:40 IST" duration-ms="40" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="directory_EmployeeName()[pri:2, instance:org.atmecs.orangehrm.testscripts.DirectoryPage@2b8d084]" started-at="2023-02-06T14:59:40 IST" name="directory_EmployeeName" description="This method is to add new employee to the existing entries" finished-at="2023-02-06T14:59:54 IST" duration-ms="13564" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- directory_EmployeeName -->
+        <test-method signature="directory_JobTitle()[pri:3, instance:org.atmecs.orangehrm.testscripts.DirectoryPage@2b8d084]" started-at="2023-02-06T14:59:54 IST" name="directory_JobTitle" description="This method is to search employee using designation in the existing entries" finished-at="2023-02-06T15:00:49 IST" duration-ms="54865" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- directory_JobTitle -->
+        <test-method signature="directory_Location()[pri:4, instance:org.atmecs.orangehrm.testscripts.DirectoryPage@2b8d084]" started-at="2023-02-06T15:00:49 IST" name="directory_Location" description="This method is to search employee using Location in the existing entries" finished-at="2023-02-06T15:01:01 IST" duration-ms="12337" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- directory_Location -->
+      </class> <!-- org.atmecs.orangehrm.testscripts.DirectoryPage -->
+      <class name="org.atmecs.orangehrm.testscripts.AdminPage">
+        <test-method signature="login()[pri:1, instance:org.atmecs.orangehrm.testscripts.AdminPage@51dbd6e4]" started-at="2023-02-06T15:03:00 IST" name="login" description="This method is to login to the website" finished-at="2023-02-06T15:03:00 IST" duration-ms="29" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="searchUser_Admin_User()[pri:2, instance:org.atmecs.orangehrm.testscripts.AdminPage@51dbd6e4]" started-at="2023-02-06T15:03:00 IST" name="searchUser_Admin_User" description="This method is used to search the user in the entries" finished-at="2023-02-06T15:03:14 IST" duration-ms="13944" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchUser_Admin_User -->
+        <test-method signature="deleteUser_Admin_User()[pri:3, instance:org.atmecs.orangehrm.testscripts.AdminPage@51dbd6e4]" started-at="2023-02-06T15:03:14 IST" name="deleteUser_Admin_User" description="This method is used to delete the user in the entries" finished-at="2023-02-06T15:03:28 IST" duration-ms="13941" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteUser_Admin_User -->
+        <test-method signature="addStatus_Admin_Job()[pri:4, instance:org.atmecs.orangehrm.testscripts.AdminPage@51dbd6e4]" started-at="2023-02-06T15:03:28 IST" name="addStatus_Admin_Job" description="This method is used to add employment status in the field" finished-at="2023-02-06T15:03:42 IST" duration-ms="13893" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addStatus_Admin_Job -->
+        <test-method signature="editStatus_Admin_Job()[pri:5, instance:org.atmecs.orangehrm.testscripts.AdminPage@51dbd6e4]" started-at="2023-02-06T15:03:42 IST" name="editStatus_Admin_Job" description="This method is used to edit the employment status in the entries" finished-at="2023-02-06T15:03:54 IST" duration-ms="12207" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- editStatus_Admin_Job -->
+        <test-method signature="deleteStatus_Admin_Job()[pri:6, instance:org.atmecs.orangehrm.testscripts.AdminPage@51dbd6e4]" started-at="2023-02-06T15:03:54 IST" name="deleteStatus_Admin_Job" description="This method is used to delete the employment status in the entries" finished-at="2023-02-06T15:04:00 IST" duration-ms="6324" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteStatus_Admin_Job -->
+        <test-method signature="addShift_Admin_Job()[pri:7, instance:org.atmecs.orangehrm.testscripts.AdminPage@51dbd6e4]" started-at="2023-02-06T15:04:00 IST" name="addShift_Admin_Job" description="This method is used to add new work shift in the entries" finished-at="2023-02-06T15:04:32 IST" duration-ms="31653" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addShift_Admin_Job -->
+        <test-method signature="deleteShift_Admin_Job()[pri:8, instance:org.atmecs.orangehrm.testscripts.AdminPage@51dbd6e4]" started-at="2023-02-06T15:04:32 IST" name="deleteShift_Admin_Job" description="This method is used to delete the work shift in the entries" finished-at="2023-02-06T15:04:39 IST" duration-ms="6841" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteShift_Admin_Job -->
+        <test-method signature="addLocation_Admin_Location()[pri:9, instance:org.atmecs.orangehrm.testscripts.AdminPage@51dbd6e4]" started-at="2023-02-06T15:04:39 IST" name="addLocation_Admin_Location" description="This method is used to add new location to the entries" finished-at="2023-02-06T15:06:08 IST" duration-ms="88765" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addLocation_Admin_Location -->
+        <test-method signature="searchLocation_Admin_Location()[pri:10, instance:org.atmecs.orangehrm.testscripts.AdminPage@51dbd6e4]" started-at="2023-02-06T15:06:08 IST" name="searchLocation_Admin_Location" description="This method is used to search the location in the entries" finished-at="2023-02-06T15:06:25 IST" duration-ms="17544" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchLocation_Admin_Location -->
+      </class> <!-- org.atmecs.orangehrm.testscripts.AdminPage -->
+    </test> <!-- ChromeTest -->
+  </suite> <!-- Suite -->
+</testng-results>
